@@ -3,7 +3,7 @@ const pubCode = {
   "vslamlab": {
     "link": "https://github.com/alejandrofontan/VSLAM-LAB",
     "short_url": "/alejandrofontan/VSLAM-LAB",
-    "image": "scouting_ipp.png", "title": "VSLAM-LAB – A Unified Framework for Visual SLAM Benchmarking",
+    "image": "vslamlab.png", "title": "VSLAM-LAB – A Unified Framework for Visual SLAM Benchmarking",
     "description": "An open-source, reproducible framework for benchmarking Visual SLAM baselines and datasets — all in one place."
   },
   // "spatial_hash": {
