@@ -5,9 +5,9 @@ function buildHeader(id) {
       <a href="index.html" class="image avatar" target="_self"><img src="images/avatar.png" alt="" /></a>
       <h1>
         <ul class="no-bullets" style="padding-bottom: 2em;">
-          <li><strong>Lukas Schmid</strong>, PhD</li>
+          <li><strong>Alejandro Fontan</strong>, PhD</li>
           <li>Postdoctoral Fellow </li>
-          <li>@<a href="https://web.mit.edu/sparklab/">MIT-SPARK Lab</a></li>
+          <li>@<a href="https://research.qut.edu.au/qcr/">QCR</a></li>
         </ul>
       </h1>
     </div>`;
@@ -17,24 +17,24 @@ function buildFooter(id) {
   document.getElementById(id).innerHTML = `
     <div class="inner">
       <ul class="icons">
-        <li><a href="https://github.com/Schmluk" class="icon brands fa-github"><span
+        <li><a href="https://github.com/alejandrofontan" class="icon brands fa-github"><span
               class="label">Github</span></a>
         </li>
-        <li><a href="https://www.linkedin.com/in/lukas-schmid-599872217"
+        <li><a href="https://www.linkedin.com/in/alejandro-fontan-villacampa-994a1794"
             class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
-        <li><a href="https://scholar.google.com/citations?user=r79fGI0AAAAJ"
+        <li><a href="https://scholar.google.com/citations?user=SDtnGogAAAAJ"
             class="icon brands fa-google"><span class="label">Google Scholar</span></a></li>
       </ul>
       <ul class="icons">
-        <li><a href="https://orcid.org/0000-0002-3961-8145" class="icon brands fa-orcid"><span
+        <li><a href="https://orcid.org/0000-0002-5909-8415" class="icon brands fa-orcid"><span
               class="label">ORCID</span></a></li>
-        <li><a href="https://www.researchgate.net/profile/Lukas-Schmid-14"
+        <li><a href="https://www.researchgate.net/profile/Alejandro-Fontan-2"
             class="icon brands fa-researchgate"><span class="label">Research Gate</span></a></li>
-        <li><a href="mailto:lschmid@mit.edu" class="icon solid fa-envelope"><span
+        <li><a href="mailto:alejandro.fontan@qut.edu.au" class="icon solid fa-envelope"><span
               class="label">Email</span></a></li>
       </ul>
       <ul class="copyright">
-        <li>&copy; Lukas Schmid</li>
+        <li>&copy; Alejandro Fontan</li>
         <li>Based on Designs by <a href="http://html5up.net">HTML5 UP</a></li>
       </ul>
     </div>`;
