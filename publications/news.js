@@ -16,8 +16,15 @@ const pubNews = [
   //   "caption": "I presented my research on Spatio-Temporal AI at the Georgia Institute of Technology!"
   // },
   {
+    "title": "Introducing <a href='https://vslam-lab.github.io/Unifying-VSLAM-RSS25/'/>VSLAM-LAB</a>! A Unified Framework for Visual SLAM Benchmarking!",
+    "date": "4/2025",
+    "image": "vslamlab.png",
+    "thumb": "vslamlab.png",
+    "caption": "Introducing <a href='https://vslam-lab.github.io/Unifying-VSLAM-RSS25/'/>VSLAM-LAB</a>! A Unified Framework for Visual SLAM Benchmarking!"
+  },
+  {
     "title": "We organized a <a href='https://vslam-lab.github.io/Unifying-VSLAM-RSS25/'/>Workshop</a> at <a href='https://roboticsconference.org/'/>RSS25</a> in Los Angeles. The recordings of all workshop talks are now available on <a href='https://www.youtube.com/playlist?list=PLm2jyT49-dYAZKv2aK-XLch3zqg8bOAks'/>Youtube</a>!",
-    "date": "3/2025",
+    "date": "6/2025",
     "image": "rss25_ws.jpg",
     "thumb": "rss25_ws.jpg",
     "caption": "We organized a <a href='https://vslam-lab.github.io/Unifying-VSLAM-RSS25/'/>Workshop</a> at <a href='https://roboticsconference.org/'/>RSS25</a> in Los Angeles. The recordings of all workshop talks are now available on <a href='https://www.youtube.com/playlist?list=PLm2jyT49-dYAZKv2aK-XLch3zqg8bOAks'/>Youtube</a>!"
