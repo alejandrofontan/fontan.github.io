@@ -30,7 +30,7 @@ function addTableRow(publication, tbody) {
 
     // Highlights.
     var name_check = publication.authors[i].toLowerCase();
-    if (name_check == "l. schmid" || name_check == "lukas schmid" || name_check == "schmid, l." || name_check == "schmid, lukas") {
+    if (name_check == "a. fontan" || name_check == "alejandro fontan" || name_check == "fontan, a." || name_check == "fontan, alejandro") {
       text += "<strong>" + publication.authors[i];
       if (publication.sharedfirst) {
         text += "*";
