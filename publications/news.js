@@ -16,11 +16,11 @@ const pubNews = [
   //   "caption": "I presented my research on Spatio-Temporal AI at the Georgia Institute of Technology!"
   // },
   {
-    "title": "Our <a href='https://visual-slam-lab.github.io/unifying-visual-slam/'/>Workshop</a> on Unifying Visual SLAM got accepted! Join us at <a href='https://roboticsconference.org/'/>RSS 2025</a> in LA! [<a href='https://visual-slam-lab.github.io/unifying-visual-slam/'/>Workshop</a>] [<a href='https://visual-slam-lab.github.io/unifying-visual-slam/'/>CfP</a>]",
+    "title": "RSS25 Workshop",
     "date": "3/2025",
     "image": "rss25_ws.jpg",
     "thumb": "rss25_ws.jpg",
-    "caption": "Our <a href='https://visual-slam-lab.github.io/unifying-visual-slam/'/>Workshop</a> on Unifying Visual SLAM got accepted! Join us at <a href='https://roboticsconference.org/'/>RSS 2025</a> in LA! [<a href='https://visual-slam-lab.github.io/unifying-visual-slam/'/>Workshop</a>] [<a href='https://visual-slam-lab.github.io/unifying-visual-slam/'/>CfP</a>]"
+    "caption": "We organized a <a href='https://vslam-lab.github.io/Unifying-VSLAM-RSS25/'/>Workshop</a> on Unifying Visual SLAM ar <a href='https://vslam-lab.github.io/Unifying-VSLAM-RSS25/'/>RSS25</a> in LA! The recordings of all workshop talks are now available on <a href='https://www.youtube.com/playlist?list=PLm2jyT49-dYAZKv2aK-XLch3zqg8bOAks'/>Youtube</a>!"
   },
   // {
   //   "title": "I presented my research on Spatio-Temporal AI at Boston University!",
