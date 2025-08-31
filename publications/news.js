@@ -16,7 +16,7 @@ const pubNews = [
   //   "caption": "I presented my research on Spatio-Temporal AI at the Georgia Institute of Technology!"
   // },
   {
-    "title": "RSS25 Workshop a",
+    "title": "We organized a <a href='https://vslam-lab.github.io/Unifying-VSLAM-RSS25/'/>Workshop</a> at RSS25 in LA",
     "date": "3/2025",
     "image": "rss25_ws.jpg",
     "thumb": "rss25_ws.jpg",
