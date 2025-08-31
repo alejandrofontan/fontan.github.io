@@ -16,11 +16,11 @@ const pubNews = [
   //   "caption": "I presented my research on Spatio-Temporal AI at the Georgia Institute of Technology!"
   // },
   {
-    "title": "We organized a <a href='https://vslam-lab.github.io/Unifying-VSLAM-RSS25/'/>Workshop</a> at RSS25 in LA A",
+    "title": "We organized a <a href='https://vslam-lab.github.io/Unifying-VSLAM-RSS25/'/>Workshop</a> at <a href='https://vslam-lab.github.io/Unifying-VSLAM-RSS25/'/>rss25</a> in LA B",
     "date": "3/2025",
     "image": "rss25_ws.jpg",
     "thumb": "rss25_ws.jpg",
-    "caption": "We organized a <a href='https://vslam-lab.github.io/Unifying-VSLAM-RSS25/'/>Workshop</a> at RSS25 in LA A"
+    "caption": "We organized a <a href='https://vslam-lab.github.io/Unifying-VSLAM-RSS25/'/>Workshop</a> at <a href='https://vslam-lab.github.io/Unifying-VSLAM-RSS25/'/>rss25</a> in LA B"
   }
   // {
   //   "title": "I presented my research on Spatio-Temporal AI at Boston University!",
