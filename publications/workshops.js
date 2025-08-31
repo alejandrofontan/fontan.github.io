@@ -7,7 +7,7 @@ const pubWorkshops = [
     "thumbimage": "rss25_ws.jpg",
     "thumblink": "https://vslam-lab.github.io/Unifying-VSLAM-RSS25/",
     "year": "2025",
-    "pages": "Los Angeles, California, June"
+    "pages": "Los Angeles, California US, June"
   }
   // {
   //   "authors": ["L. Schmid", "M. Abate", "Y. Chang", "L. Carlone"],
