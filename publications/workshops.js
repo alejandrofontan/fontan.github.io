@@ -1,13 +1,15 @@
 
 const pubWorkshops = [
   {
-    "authors": ["A.Fontan", "L. Schmid", "O. Vysotska", "M. Zaffar", "L. Pan", "G. B. Nair", "J. Barthelemy", "J. Civera", "M. Milford" ],
-    "title": "Unifying Visual SLAM: From Fragmented Datasets to Scalable, Real-World Solutions",
+    "authors": ["A. Fontan", "L. Schmid", "O. Vysotska", "M. Zaffar", "L. Pan", "G. B. Nair", "J. Barthelemy", "J. Civera", "M. Milford" ],
+    "title": "Unifying@RSS25: Unifying Visual SLAM: From Fragmented Datasets to Scalable, Real-World Solutions",
     "venue":  "Robotics: Science and Systems (RSS) RSS@25",
     "thumbimage": "rss25_ws.jpg",
     "thumblink": "https://vslam-lab.github.io/Unifying-VSLAM-RSS25/",
     "year": "2025",
-    "pages": "Los Angeles, California US, June"
+    "pages": "Los Angeles, California, June",
+    "links": [{ "name": "Youtube", "link": "https://www.youtube.com/playlist?list=PLm2jyT49-dYAZKv2aK-XLch3zqg8bOAks" }, { "name": "Code", "link": "https://github.com/DLR-RM/oaisys" }]
+
   }
   // {
   //   "authors": ["L. Schmid", "M. Abate", "Y. Chang", "L. Carlone"],
