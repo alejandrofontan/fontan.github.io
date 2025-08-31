@@ -6,6 +6,17 @@ const conferenceVenues = {
 }
 
 const pubConferences = [
+   {
+    "authors": ["A. Fontan", "Tobias Fischer", "J. Civera", "M. Milford"],
+    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets",
+    "venue": conferenceVenues["IROS"],
+    "thumbimage": "Khronos.jpg",
+    "thumblink": "https://github.com/VSLAM-LAB/VSLAM-LAB",
+    "year": "2025",
+    "pages": "Hangzhou, China, October",
+    "links": [{"name": "Paper", "link": "https://arxiv.org/pdf/2504.04457?"}, {"name": "Code", "link": "https://github.com/VSLAM-LAB/VSLAM-LAB"}, {"name": "Youtube", "link": "https://www.youtube.com/@VSLAM-LAB"},{ "name": "IROS25", "link": "https://www.iros25.org/" }],
+    // "awards": ["Outstanding Systems Paper Award"]
+  },
   {
     "authors": ["A. Fontan", "J. Civera", "M. Milford"],
     "title": "AnyFeature-VSLAM: Automating the Usage of Any Chosen Feature into Visual SLAM",
@@ -15,17 +26,6 @@ const pubConferences = [
     "year": "2024",
     "pages": "Delft, The Netherlands, July",
     "links": [{"name": "Paper", "link": "https://www.roboticsproceedings.org/rss20/p084.html"}, { "name": "Code", "link": "https://github.com/alejandrofontan/AnyFeature-VSLAM" }, {"name": "RSS24", "link": "https://roboticsconference.org/2024/"}],
-    // "awards": ["Outstanding Systems Paper Award"]
-  },
-  {
-    "authors": ["A. Fontan", "Tobias Fischer", "J. Civera", "M. Milford"],
-    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets",
-    "venue": conferenceVenues["IROS"],
-    "thumbimage": "Khronos.jpg",
-    "thumblink": "https://github.com/VSLAM-LAB/VSLAM-LAB",
-    "year": "2025",
-    "pages": "Hangzhou, China, October",
-    "links": [{"name": "Paper", "link": "https://arxiv.org/pdf/2504.04457?"}, {"name": "Code", "link": "https://github.com/VSLAM-LAB/VSLAM-LAB"}, {"name": "Youtube", "link": "https://www.youtube.com/@VSLAM-LAB"},{ "name": "IROS25", "link": "https://www.iros25.org/" }],
     // "awards": ["Outstanding Systems Paper Award"]
   },
   // {
