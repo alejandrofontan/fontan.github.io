@@ -8,7 +8,7 @@ const pubWorkshops = [
     "thumblink": "https://vslam-lab.github.io/Unifying-VSLAM-RSS25/",
     "year": "2025",
     "pages": "Los Angeles, California, June",
-    "links": [{ "name": "Youtube", "link": "https://www.youtube.com/playlist?list=PLm2jyT49-dYAZKv2aK-XLch3zqg8bOAks" }, { "name": "Code", "link": "https://github.com/DLR-RM/oaisys" }]
+    "links": [{ "name": "Youtube", "link": "https://www.youtube.com/playlist?list=PLm2jyT49-dYAZKv2aK-XLch3zqg8bOAks" }, { "name": "Website", "link": "https://vslam-lab.github.io/Unifying-VSLAM-RSS25/" }, { "name": "RSS25", "link": "https://roboticsconference.org/" }]
 
   }
   // {
