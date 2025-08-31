@@ -18,7 +18,7 @@ const pubConferences = [
     // "awards": ["Outstanding Systems Paper Award"]
   },
   {
-    "authors": ["A. Fontan", "Tobias Fischer,", "J. Civera", "M. Milford"],
+    "authors": ["A. Fontan", "Tobias Fischer", "J. Civera", "M. Milford"],
     "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets",
     "venue": conferenceVenues["IROS"],
     "thumbimage": "Khronos.jpg",
