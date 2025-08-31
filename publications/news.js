@@ -15,6 +15,13 @@ const pubNews = [
   //   "thumb": "gt_logo.jpg",
   //   "caption": "I presented my research on Spatio-Temporal AI at the Georgia Institute of Technology!"
   // },
+    {
+    "title": "I attended <a href='https://icvss.dmi.unict.it/icvss2025/'/>ICVSS25</a> on Computer Vision for Spatial Intelligence in Sicily. Learned from world-leading researchers including Davison, Cremers, Isola, Vedaldi & many others. Engaged with industry leaders like Amazon, Google, Meta & Qualcomm. A fantastic opportunity to connect, learn, and share ideas with the global vision community",
+    "date": "7/2025",
+    "image": "ICVSS25.JPG",
+    "thumb": "ICVSS25.JPG",
+    "caption": "I attended <a href='https://icvss.dmi.unict.it/icvss2025/'/>ICVSS25</a> on Computer Vision for Spatial Intelligence in Sicily. Learned from world-leading researchers including Davison, Cremers, Isola, Vedaldi & many others. Engaged with industry leaders like Amazon, Google, Meta & Qualcomm. A fantastic opportunity to connect, learn, and share ideas with the global vision community"
+  },
   {
     "title": "We organized a <a href='https://vslam-lab.github.io/Unifying-VSLAM-RSS25/'/>Workshop</a> at <a href='https://roboticsconference.org/'/>RSS25</a> in Los Angeles. The recordings of all workshop talks are now available on <a href='https://www.youtube.com/playlist?list=PLm2jyT49-dYAZKv2aK-XLch3zqg8bOAks'/>Youtube</a>!",
     "date": "6/2025",
