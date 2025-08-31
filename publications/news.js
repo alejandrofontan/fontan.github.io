@@ -25,8 +25,8 @@ const pubNews = [
   {
     "title": "Introducing <a href='https://vslam-lab.github.io/Unifying-VSLAM-RSS25/'/>VSLAM-LAB</a>! A Unified Framework for Visual SLAM Benchmarking!",
     "date": "4/2025",
-    "image": "vslamlab.png",
-    "thumb": "vslamlab.png",
+    "image": "VSLAM-LAB-Git.png",
+    "thumb": "VSLAM-LAB-Git.png",
     "caption": "Introducing <a href='https://vslam-lab.github.io/Unifying-VSLAM-RSS25/'/>VSLAM-LAB</a>! A Unified Framework for Visual SLAM Benchmarking!"
   },
   // {
