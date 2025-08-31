@@ -1,5 +1,14 @@
 
 const pubWorkshops = [
+  {
+    "authors": ["A.Fontan", "L. Schmid", "O. Vysotska", "M. Zaffar", "L. Pan", "G. B. Nair", "J. Barthelemy", "J. Civera", "M. Milford" ],
+    "title": "Unifying Visual SLAM: From Fragmented Datasets to Scalable, Real-World Solutions",
+    "venue":  "Robotics: Science and Systems (RSS) RSS@25",
+    "thumbimage": "rss25_ws.jpg",
+    "thumblink": "https://vslam-lab.github.io/Unifying-VSLAM-RSS25/",
+    "year": "2025",
+    "pages": "Los Angeles, California, June"
+  }
   // {
   //   "authors": ["L. Schmid", "M. Abate", "Y. Chang", "L. Carlone"],
   //   "title": "Towards Hierarchical Spatio-Temporal Perception of Dynamic Human-Centric Environments",
