@@ -2,7 +2,7 @@
 const conferenceVenues = {
   "RSS": "Robotics: Science and Systems (RSS)",
   "ICRA": "IEEE International Conference on Robotics and Automation (ICRA)",
-  "3DV": "IEEE International Conference on 3D Vision (3DV)"
+  "3DV": "IEEE International Conference on 3D Vision (3DV)",
   "IROS": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
   "CVPR": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
 }
@@ -30,7 +30,17 @@ const pubConferences = [
     "links": [{"name": "Paper", "link": "https://www.roboticsproceedings.org/rss20/p084.html"}, { "name": "Code", "link": "https://github.com/alejandrofontan/AnyFeature-VSLAM" }, {"name": "RSS24", "link": "https://roboticsconference.org/2024/"}],
     // "awards": ["Outstanding Systems Paper Award"]
   },
-
+  {
+    "authors": ["A. Fontan", "J. Civera", "M. Milford"],
+    "title": "AnyFeature-VSLAM: Automating the Usage of Any Chosen Feature into Visual SLAM",
+    "venue": conferenceVenues["RSS"],
+    "thumbimage": "Khronos.jpg",
+    "thumblink": "https://github.com/alejandrofontan/AnyFeature-VSLAM",
+    "year": "2024",
+    "pages": "Delft, The Netherlands, July",
+    "links": [{"name": "Paper", "link": "https://www.roboticsproceedings.org/rss20/p084.html"}, { "name": "Code", "link": "https://github.com/alejandrofontan/AnyFeature-VSLAM" }, {"name": "RSS24", "link": "https://roboticsconference.org/2024/"}],
+    // "awards": ["Outstanding Systems Paper Award"]
+  },
   // {
   //   "authors": ["S. Looper", "J. Rodriguez-Puigvert", "R. Siegwart", "C. Cadena", "L. Schmid"],
   //   "title": "3D VSG: Long-term Semantic Scene Change Prediction through 3D Variable Scene Graphs",
