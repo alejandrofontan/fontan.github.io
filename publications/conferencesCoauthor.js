@@ -1,7 +1,7 @@
 const pubConferencesCoauthor = [
    {
     "authors": ["I. Ballester", "A. Fontan", "J. Civera", "KH. Strobl", "R. Triebel"],
-    "title": "DOT: dynamic object tracking for visual SLAM",
+    "title": "DOT: Dynamic Object Tracking for Visual SLAM",
     "venue": conferenceVenues["ICRA"],
     "thumbimage": "Khronos.jpg",
     "thumblink": "https://www.youtube.com/watch?v=9hWChyQGKJk&pp=ygUsRE9UOiBkeW5hbWljIG9iamVjdCB0cmFja2luZyBmb3IgdmlzdWFsIFNMQU0%3D",
