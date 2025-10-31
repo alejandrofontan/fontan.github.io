@@ -31,15 +31,15 @@ const pubConferences = [
     // "awards": ["Outstanding Systems Paper Award"]
   },
   {
-    "authors": ["A. Fontan", "J. Civera", "M. Milford"],
-    "title": "AnyFeature-VSLAM: Automating the Usage of Any Chosen Feature into Visual SLAM",
-    "venue": conferenceVenues["RSS"],
+    "authors": ["A. Fontan", "J. Civera", "R. Triebel"],
+    "title": "Information-Driven Direct RGB-D Odometry",
+    "venue": conferenceVenues["CVPR"],
     "thumbimage": "Khronos.jpg",
-    "thumblink": "https://github.com/alejandrofontan/AnyFeature-VSLAM",
-    "year": "2024",
-    "pages": "Delft, The Netherlands, July",
-    "links": [{"name": "Paper", "link": "https://www.roboticsproceedings.org/rss20/p084.html"}, { "name": "Code", "link": "https://github.com/alejandrofontan/AnyFeature-VSLAM" }, {"name": "RSS24", "link": "https://roboticsconference.org/2024/"}],
-    // "awards": ["Outstanding Systems Paper Award"]
+    "thumblink": "https://www.youtube.com/watch?v=Ja6QwYiKlu8&pp=ygUoSW5mb3JtYXRpb24tRHJpdmVuIERpcmVjdCBSR0ItRCBPZG9tZXRyeQ%3D%3D",
+    "year": "2020",
+    "pages": "Virtual, June",
+    "links": [{"name": "Paper", "link": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Fontan_Information-Driven_Direct_RGB-D_Odometry_CVPR_2020_paper.pdf"}, { "name": "Youtube", "link": "https://www.youtube.com/watch?v=Ja6QwYiKlu8&pp=ygUoSW5mb3JtYXRpb24tRHJpdmVuIERpcmVjdCBSR0ItRCBPZG9tZXRyeQ%3D%3D" }, {"name": "CVPR20", "link": "https://cvpr2020.thecvf.com/"}],
+    "awards": ["Oral Presentation"]
   },
   // {
   //   "authors": ["S. Looper", "J. Rodriguez-Puigvert", "R. Siegwart", "C. Cadena", "L. Schmid"],
