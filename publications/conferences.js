@@ -32,7 +32,7 @@ const pubConferences = [
   },
   {
     "authors": ["A. Fontan", "J. Civera", "M. Milford"],
-    "title": "AnyFeature-VSLAM: Automating the Usage of Any Chosen Feature into Visual SLAM",
+    "title": "aaaaaaaaaaaaaaaaaaaaaaaaa",
     "venue": conferenceVenues["RSS"],
     "thumbimage": "Khronos.jpg",
     "thumblink": "https://github.com/alejandrofontan/AnyFeature-VSLAM",
@@ -40,7 +40,7 @@ const pubConferences = [
     "pages": "Delft, The Netherlands, July",
     "links": [{"name": "Paper", "link": "https://www.roboticsproceedings.org/rss20/p084.html"}, { "name": "Code", "link": "https://github.com/alejandrofontan/AnyFeature-VSLAM" }, {"name": "RSS24", "link": "https://roboticsconference.org/2024/"}],
     // "awards": ["Outstanding Systems Paper Award"]
-  },
+  }
 
   // {
   //   "authors": ["S. Looper", "J. Rodriguez-Puigvert", "R. Siegwart", "C. Cadena", "L. Schmid"],
