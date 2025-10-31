@@ -1,13 +1,13 @@
 const pubConferencesCoauthor = [
    {
-    "authors": ["A. Fontan", "Tobias Fischer", "J. Civera", "M. Milford"],
-    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets",
-    "venue": conferenceVenues["IROS"],
+    "authors": ["I. Ballester", "A. Fontan", "J. Civera", "KH. Strobl", "R. Triebel"],
+    "title": "DOT: dynamic object tracking for visual SLAM",
+    "venue": conferenceVenues["ICRA"],
     "thumbimage": "Khronos.jpg",
-    "thumblink": "https://github.com/VSLAM-LAB/VSLAM-LAB",
-    "year": "2025",
-    "pages": "Hangzhou, China, October",
-    "links": [{"name": "Paper", "link": "https://arxiv.org/pdf/2504.04457?"}, {"name": "Code", "link": "https://github.com/VSLAM-LAB/VSLAM-LAB"}, {"name": "Youtube", "link": "https://www.youtube.com/@VSLAM-LAB"}, { "name": "IROS25", "link": "https://www.iros25.org/" }],
+    "thumblink": "https://www.youtube.com/watch?v=9hWChyQGKJk&pp=ygUsRE9UOiBkeW5hbWljIG9iamVjdCB0cmFja2luZyBmb3IgdmlzdWFsIFNMQU0%3D",
+    "year": "2021",
+    "pages": "Xi'an, China, Jun",
+    "links": [{"name": "Paper", "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561452"}, {"name": "Youtube", "link": "https://www.youtube.com/watch?v=9hWChyQGKJk&pp=ygUsRE9UOiBkeW5hbWljIG9iamVjdCB0cmFja2luZyBmb3IgdmlzdWFsIFNMQU0%3D"}, { "name": "ICRA21", "link": "https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/icra2021/icra2021/web.archive.org/web/20210531183741/https_/www.ieee-icra.org/index.html" }],
     // "awards": ["Outstanding Systems Paper Award"]
   },
   {
