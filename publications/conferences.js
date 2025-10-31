@@ -3,6 +3,8 @@ const conferenceVenues = {
   "RSS": "Robotics: Science and Systems (RSS)",
   "ICRA": "IEEE International Conference on Robotics and Automation (ICRA)",
   "3DV": "IEEE International Conference on 3D Vision (3DV)"
+  "IROS": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+  "CVPR": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
 }
 
 const pubConferences = [
@@ -14,7 +16,7 @@ const pubConferences = [
     "thumblink": "https://github.com/VSLAM-LAB/VSLAM-LAB",
     "year": "2025",
     "pages": "Hangzhou, China, October",
-    "links": [{"name": "Paper", "link": "https://arxiv.org/pdf/2504.04457?"}, {"name": "Code", "link": "https://github.com/VSLAM-LAB/VSLAM-LAB"}, {"name": "Youtube", "link": "https://www.youtube.com/@VSLAM-LAB"},{ "name": "IROS25", "link": "https://www.iros25.org/" }],
+    "links": [{"name": "Paper", "link": "https://arxiv.org/pdf/2504.04457?"}, {"name": "Code", "link": "https://github.com/VSLAM-LAB/VSLAM-LAB"}, {"name": "Youtube", "link": "https://www.youtube.com/@VSLAM-LAB"}, { "name": "IROS25", "link": "https://www.iros25.org/" }],
     // "awards": ["Outstanding Systems Paper Award"]
   },
   {
@@ -28,6 +30,18 @@ const pubConferences = [
     "links": [{"name": "Paper", "link": "https://www.roboticsproceedings.org/rss20/p084.html"}, { "name": "Code", "link": "https://github.com/alejandrofontan/AnyFeature-VSLAM" }, {"name": "RSS24", "link": "https://roboticsconference.org/2024/"}],
     // "awards": ["Outstanding Systems Paper Award"]
   },
+  {
+    "authors": ["A. Fontan", "J. Civera", "R. Triebel"],
+    "title": "Information-Driven Direct RGB-D Odometry",
+    "venue": conferenceVenues["CVPR"],
+    "thumbimage": "Khronos.jpg",
+    "thumblink": "https://www.youtube.com/watch?v=Ja6QwYiKlu8&pp=ygUoSW5mb3JtYXRpb24tRHJpdmVuIERpcmVjdCBSR0ItRCBPZG9tZXRyeQ%3D%3D",
+    "year": "2024",
+    "pages": "Delft, The Netherlands, July",
+    "links": [{"name": "Paper", "link": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Fontan_Information-Driven_Direct_RGB-D_Odometry_CVPR_2020_paper.pdf"}, {"name": "Youtube", "link": "https://www.youtube.com/watch?v=Ja6QwYiKlu8&pp=ygUoSW5mb3JtYXRpb24tRHJpdmVuIERpcmVjdCBSR0ItRCBPZG9tZXRyeQ%3D%3D"}, {"name": "CVPR20", "link": "https://cvpr2020.thecvf.com/"}],
+    "awards": ["Oral Presentation"]
+  },
+
   // {
   //   "authors": ["S. Looper", "J. Rodriguez-Puigvert", "R. Siegwart", "C. Cadena", "L. Schmid"],
   //   "title": "3D VSG: Long-term Semantic Scene Change Prediction through 3D Variable Scene Graphs",
