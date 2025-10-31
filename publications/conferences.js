@@ -17,7 +17,7 @@ const pubConferences = [
     "year": "2025",
     "pages": "Hangzhou, China, October",
     "links": [{"name": "Paper", "link": "https://arxiv.org/pdf/2504.04457?"}, {"name": "Code", "link": "https://github.com/VSLAM-LAB/VSLAM-LAB"}, {"name": "YouTube", "link": "https://www.youtube.com/@VSLAM-LAB"}, { "name": "IROS25", "link": "https://www.iros25.org/" }],
-    // "awards": ["Outstanding Systems Paper Award"]
+    "stars": ["> 350 stars on GitHub"]
   },
   {
     "authors": ["A. Fontan", "J. Civera", "M. Milford"],
@@ -28,7 +28,7 @@ const pubConferences = [
     "year": "2024",
     "pages": "Delft, The Netherlands, July",
     "links": [{"name": "Paper", "link": "https://www.roboticsproceedings.org/rss20/p084.html"}, { "name": "Code", "link": "https://github.com/alejandrofontan/AnyFeature-VSLAM" }, {"name": "RSS24", "link": "https://roboticsconference.org/2024/"}],
-    // "awards": ["Outstanding Systems Paper Award"]
+    "stars": ["> 130 stars on GitHub"]
   },
   {
     "authors": ["A. Fontan", "J. Civera", "R. Triebel"],

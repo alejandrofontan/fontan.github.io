@@ -63,6 +63,14 @@ function addTableRow(publication, tbody) {
     }
   }
 
+  // Stars.
+  let stars = publication.stars;
+  if (stars != undefined && stars.length > 0) {
+    for (let i = 0; i < publication.stars.length; i++) {
+      text += "[<span style='font-weight: bold; color: rgb(255, 180, 0);'>\u2B50" + publication.stars[i] + "</span>]&nbsp;";
+    }
+  }
+
   text += "</div></td>"
 
   // Add the data to the table.
