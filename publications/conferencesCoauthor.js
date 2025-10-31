@@ -1,12 +1,3 @@
-
-const conferenceVenues = {
-  "RSS": "Robotics: Science and Systems (RSS)",
-  "ICRA": "IEEE International Conference on Robotics and Automation (ICRA)",
-  "3DV": "IEEE International Conference on 3D Vision (3DV)",
-  "IROS": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
-  "CVPR": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-}
-
 const pubConferencesCoauthor = [
    {
     "authors": ["A. Fontan", "Tobias Fischer", "J. Civera", "M. Milford"],
