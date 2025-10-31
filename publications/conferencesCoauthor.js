@@ -1,36 +1,24 @@
 const pubConferencesCoauthor = [
    {
+    "authors": ["B. Gorry", "T. Fischer", "M. Milford", "A. Fontan"],
+    "title": "UnderLoc: Image-Based Relocalization and Alignment for Long-Term Monitoring of Dynamic Underwater Environments",
+    "venue": conferenceVenues["IROS"],
+    "thumbimage": "Khronos.jpg",
+    "thumblink": "https://youtu.be/CYrg5-nY0Rw",
+    "year": "2025",
+    "pages": "Hangzhou, China, October",
+    "links": [{"name": "Paper", "link": "https://arxiv.org/pdf/2503.04096"}, {"name": "Code", "link": "https://github.com/bev-gorry/underloc"}, {"name": "YouTube", "link": "https://youtu.be/CYrg5-nY0Rw"}, { "name": "IROS25", "link": "https://www.iros25.org/" }],
+    "awards": ["Finalist for the IEEE-RAS Outstanding #WiRA Student Paper Award"]
+  },
+   {
     "authors": ["I. Ballester", "A. Fontan", "J. Civera", "KH. Strobl", "R. Triebel"],
     "title": "DOT: Dynamic Object Tracking for Visual SLAM",
     "venue": conferenceVenues["ICRA"],
     "thumbimage": "Khronos.jpg",
-    "thumblink": "https://www.youtube.com/watch?v=9hWChyQGKJk&pp=ygUsRE9UOiBkeW5hbWljIG9iamVjdCB0cmFja2luZyBmb3IgdmlzdWFsIFNMQU0%3D",
+    "thumblink": "https://youtu.be/9hWChyQGKJk",
     "year": "2021",
-    "pages": "Xi'an, China, Jun",
-    "links": [{"name": "Paper", "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561452"}, {"name": "Youtube", "link": "https://www.youtube.com/watch?v=9hWChyQGKJk&pp=ygUsRE9UOiBkeW5hbWljIG9iamVjdCB0cmFja2luZyBmb3IgdmlzdWFsIFNMQU0%3D"}, { "name": "ICRA21", "link": "https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/icra2021/icra2021/web.archive.org/web/20210531183741/https_/www.ieee-icra.org/index.html" }],
-    // "awards": ["Outstanding Systems Paper Award"]
-  },
-  {
-    "authors": ["A. Fontan", "J. Civera", "M. Milford"],
-    "title": "AnyFeature-VSLAM: Automating the Usage of Any Chosen Feature into Visual SLAM",
-    "venue": conferenceVenues["RSS"],
-    "thumbimage": "Khronos.jpg",
-    "thumblink": "https://github.com/alejandrofontan/AnyFeature-VSLAM",
-    "year": "2024",
-    "pages": "Delft, The Netherlands, July",
-    "links": [{"name": "Paper", "link": "https://www.roboticsproceedings.org/rss20/p084.html"}, { "name": "Code", "link": "https://github.com/alejandrofontan/AnyFeature-VSLAM" }, {"name": "RSS24", "link": "https://roboticsconference.org/2024/"}],
-    // "awards": ["Outstanding Systems Paper Award"]
-  },
-  {
-    "authors": ["A. Fontan", "J. Civera", "R. Triebel"],
-    "title": "ID-RGBDO: Information-Driven Direct RGB-D Odometry",
-    "venue": conferenceVenues["CVPR"],
-    "thumbimage": "Khronos.jpg",
-    "thumblink": "https://www.youtube.com/watch?v=Ja6QwYiKlu8&pp=ygUoSW5mb3JtYXRpb24tRHJpdmVuIERpcmVjdCBSR0ItRCBPZG9tZXRyeQ%3D%3D",
-    "year": "2020",
-    "pages": "Virtual, June",
-    "links": [{"name": "Paper", "link": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Fontan_Information-Driven_Direct_RGB-D_Odometry_CVPR_2020_paper.pdf"}, { "name": "Youtube", "link": "https://www.youtube.com/watch?v=Ja6QwYiKlu8&pp=ygUoSW5mb3JtYXRpb24tRHJpdmVuIERpcmVjdCBSR0ItRCBPZG9tZXRyeQ%3D%3D" }, {"name": "CVPR20", "link": "https://cvpr2020.thecvf.com/"}],
-    "awards": ["Oral Presentation"]
+    "pages": "Xi'an, China, June",
+    "links": [{"name": "Paper", "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561452"}, {"name": "YouTube", "link": "https://youtu.be/9hWChyQGKJk"}, { "name": "ICRA21", "link": "https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/icra2021/icra2021/web.archive.org/web/20210531183741/https_/www.ieee-icra.org/index.html" }],
   },
   // {
   //   "authors": ["S. Looper", "J. Rodriguez-Puigvert", "R. Siegwart", "C. Cadena", "L. Schmid"],
