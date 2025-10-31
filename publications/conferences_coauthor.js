@@ -7,7 +7,7 @@ const conferenceVenues = {
   "CVPR": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
 }
 
-const pubConferences = [
+const pubConferences_coauthor = [
    {
     "authors": ["A. Fontan", "Tobias Fischer", "J. Civera", "M. Milford"],
     "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets",
