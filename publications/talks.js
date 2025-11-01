@@ -7,6 +7,14 @@ const pubTalks = [
     "year": 2025,
     "type": "Seminar"
   },
+   {
+    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
+    "venue": "Curtin University",
+    "location": "Perth, WA, Australia",
+    "month": 5,
+    "year": 2025,
+    "type": "Seminar"
+  },
   // {
   //   "title": "Spatio-Temporal AI for Long-term Human-centric Robot Autonomy",
   //   "venue": "Max Planck Institute for Informatics",
