@@ -1,12 +1,12 @@
 const pubTalks = [
-  // {
-  //   "title": "Spatio-Temporal AI for Long-term Human-centric Robot Autonomy",
-  //   "venue": "ECE/ME Seminar 2025 Speaker Series",
-  //   "location": "Boston University, Boston, MA, USA",
-  //   "month": 3,
-  //   "year": 2025,
-  //   "type": "Seminar"
-  // },
+  {
+    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
+    "venue": "#UQRobotics Seminar",
+    "location": "The University of Queensland, Brisbane, QLD, Australia",
+    "month": 5,
+    "year": 2025,
+    "type": "Seminar"
+  },
   // {
   //   "title": "Spatio-Temporal AI for Long-term Human-centric Robot Autonomy",
   //   "venue": "Max Planck Institute for Informatics",
