@@ -1,6 +1,30 @@
 const pubTalks = [
   {
     "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
+    "venue": "Department of Computer Science",
+    "location": "NUS, Singapore",
+    "month": 8,
+    "year": 2025,
+    "type": "Seminar"
+  }, 
+  {
+    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
+    "venue": "Department of Computing",
+    "location": "ICL, London, UK",
+    "month": 8,
+    "year": 2025,
+    "type": "Seminar"
+  }, 
+  {
+    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
+    "venue": "Institute for Computational Science and Institute of Robotics and Intelligent Systems",
+    "location": "ETH, Zurich, Switzerland",
+    "month": 8,
+    "year": 2025,
+    "type": "Seminar"
+  },  
+  {
+    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
     "venue": "University of Western Australia and Curtin University",
     "location": "Perth, WA, Australia",
     "month": 5,
@@ -30,7 +54,6 @@ const pubTalks = [
     "month": 4,
     "year": 2025,
     "type": "Seminar",
-    "link": "https://www.linkedin.com/posts/alejandro-fontan-villacampa-994a1794_vslam-lab-setup-in-less-than-2-minutes-activity-7327589648749207552-u5r-?utm_source=share&utm_medium=member_desktop&rcm=ACoAABQVfcAB1J2HFxP8_b70p84rObmhGhQJphU",
   },    
   {
     "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
