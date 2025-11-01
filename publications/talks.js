@@ -1,15 +1,7 @@
 const pubTalks = [
   {
     "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
-    "venue": "Curtin University",
-    "location": "Perth, WA, Australia",
-    "month": 5,
-    "year": 2025,
-    "type": "Seminar"
-  },
-  {
-    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
-    "venue": "University of Western Australia",
+    "venue": "University of Western Australia and Curtin University",
     "location": "Perth, WA, Australia",
     "month": 5,
     "year": 2025,
@@ -25,7 +17,7 @@ const pubTalks = [
   },
   {
     "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
-    "venue": "MAIC–QUT Road Safety Research Collaboration",
+    "venue": "MAIC–QUT Road Safety Research Collaboration, The University of Queensland and CSIRO's Data61",
     "location": "Brisbane, QLD, Australia",
     "month": 5,
     "year": 2025,
@@ -33,56 +25,25 @@ const pubTalks = [
   },
   {
     "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
-    "venue": "#UQRobotics Seminar",
-    "location": "The University of Queensland, Brisbane, QLD, Australia",
-    "month": 5,
-    "year": 2025,
-    "type": "Seminar"
-  },
-  {
-    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
-    "venue": "CSIRO's Data61",
-    "location": "Brisbane, QLD, Australia",
-    "month": 5,
-    "year": 2025,
-    "type": "Seminar"
-  },  
-  {
-    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
-    "venue": "Monash University",
+    "venue": "Monash University and The University of Melbourne",
     "location": "Melbourne, VIC, Australia",
     "month": 4,
     "year": 2025,
-    "type": "Seminar"
+    "type": "Seminar",
+    "link": "https://www.linkedin.com/posts/alejandro-fontan-villacampa-994a1794_vslam-lab-setup-in-less-than-2-minutes-activity-7327589648749207552-u5r-?utm_source=share&utm_medium=member_desktop&rcm=ACoAABQVfcAB1J2HFxP8_b70p84rObmhGhQJphU",
   },    
   {
     "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
-    "venue": "University of Technology Sydney",
+    "venue": "University of Technology Sydney and Australian Centre for Robotics (University of Sydney)",
     "location": "Sydney, NSW, Australia",
     "month": 4,
     "year": 2025,
     "type": "Seminar"
-  },  
-  {
-    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
-    "venue": "Australian Centre for Robotics",
-    "location": "University of Sydney, Sydney, NSW, Australia",
-    "month": 4,
-    "year": 2025,
-    "type": "Seminar"
-  },  
+  },   
   {
     "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
     "venue": "Australian National University",
     "location": "Camberra, ACT, Australia",
-    "month": 4,
-    "year": 2025,
-    "type": "Seminar"
-  },
-  {
-    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
-    "venue": "University of Melbourne",
-    "location": "Melbourne, VIC, Australia",
     "month": 4,
     "year": 2025,
     "type": "Seminar"
