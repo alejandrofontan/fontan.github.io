@@ -7,11 +7,43 @@ const pubTalks = [
     "year": 2025,
     "type": "Seminar"
   },
-   {
+  {
     "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
     "venue": "Curtin University",
     "location": "Perth, WA, Australia",
     "month": 5,
+    "year": 2025,
+    "type": "Seminar"
+  },
+  {
+    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
+    "venue": "Monash University",
+    "location": "Melbourne, VIC, Australia",
+    "month": 4,
+    "year": 2025,
+    "type": "Seminar"
+  },    
+  {
+    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
+    "venue": "University of Technology Sydney",
+    "location": "Sydney, NSW, Australia",
+    "month": 4,
+    "year": 2025,
+    "type": "Seminar"
+  },  
+  {
+    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
+    "venue": "Australian National University",
+    "location": "Camberra, ACT, Australia",
+    "month": 4,
+    "year": 2025,
+    "type": "Seminar"
+  },
+  {
+    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
+    "venue": "University of Melbourne",
+    "location": "Melbourne, VIC, Australia",
+    "month": 4,
     "year": 2025,
     "type": "Seminar"
   },
