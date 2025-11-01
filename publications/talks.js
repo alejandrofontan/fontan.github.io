@@ -25,7 +25,7 @@ const pubTalks = [
   },
   {
     "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
-    "venue": "MAIC–QUT Road Safety Research Collaboration ",
+    "venue": "MAIC–QUT Road Safety Research Collaboration",
     "location": "Brisbane, QLD, Australia",
     "month": 5,
     "year": 2025,
@@ -59,6 +59,14 @@ const pubTalks = [
     "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
     "venue": "University of Technology Sydney",
     "location": "Sydney, NSW, Australia",
+    "month": 4,
+    "year": 2025,
+    "type": "Seminar"
+  },  
+  {
+    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
+    "venue": "Australian Centre for Robotics",
+    "location": "University of Sydney, Sydney, NSW, Australia",
     "month": 4,
     "year": 2025,
     "type": "Seminar"
