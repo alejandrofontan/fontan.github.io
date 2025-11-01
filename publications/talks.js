@@ -1,6 +1,38 @@
 const pubTalks = [
   {
     "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
+    "venue": "Curtin University",
+    "location": "Perth, WA, Australia",
+    "month": 5,
+    "year": 2025,
+    "type": "Seminar"
+  },
+  {
+    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
+    "venue": "University of Western Australia",
+    "location": "Perth, WA, Australia",
+    "month": 5,
+    "year": 2025,
+    "type": "Seminar"
+  },
+  {
+    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
+    "venue": "AIML",
+    "location": "University of Adelaide, Adelaide, SA, Australia",
+    "month": 5,
+    "year": 2025,
+    "type": "Seminar"
+  },
+  {
+    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
+    "venue": "MAIC–QUT Road Safety Research Collaboration ",
+    "location": "Brisbane, QLD, Australia",
+    "month": 5,
+    "year": 2025,
+    "type": "Seminar"
+  },
+  {
+    "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
     "venue": "#UQRobotics Seminar",
     "location": "The University of Queensland, Brisbane, QLD, Australia",
     "month": 5,
@@ -9,12 +41,12 @@ const pubTalks = [
   },
   {
     "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
-    "venue": "Curtin University",
-    "location": "Perth, WA, Australia",
+    "venue": "CSIRO's Data61",
+    "location": "Brisbane, QLD, Australia",
     "month": 5,
     "year": 2025,
     "type": "Seminar"
-  },
+  },  
   {
     "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Baselines and Datasets",
     "venue": "Monash University",
