@@ -111,40 +111,32 @@
       color: #fff;
     }
 
-/* --- LinkedIn button styling --- */
-.student-card p:last-child { margin: 0; }  /* remove extra space around the button */
+    /* --- LinkedIn button styling --- */
+    .student-card .linkedin-icon {
+      width: 16px;
+      height: 16px;
+      vertical-align: middle;
+      margin-right: 6px;
+      border-radius: 0;       /* ✅ removes circular shape */
+      object-fit: contain;    /* keeps proportions clean */
+      overflow: visible;      /* ensures no clipping */
+    }
 
-.student-card .linkedin-icon {
-  width: 16px;
-  height: 16px;
-  border-radius: 0;          /* squared icon */
-  object-fit: contain;
-  vertical-align: middle;
-}
+    /* Make LinkedIn text slightly larger and bolder */
+    .student-card a.button.small {
+      font-size: 1.05em;
+      font-weight: 600;
+      padding: 3px 4px;        
+      border: 1px solid rgba(86, 119, 135, 0.9);
+      color: #567787;
+    }
 
-/* tighter box around text + icon */
-.student-card a.button.small {
-  display: inline-flex;                 /* hug contents */
-  align-items: center;
-  gap: 6px;                             /* space between icon and text */
-  padding: 2px 6px !important;          /* tighter on all sides */
-  line-height: 1.1 !important;          /* slim height */
-  font-size: 1.05em;
-  font-weight: 600;
-  border: 1px solid rgba(86, 119, 135, 0.9);
-  border-radius: 5px;
-  color: #567787;
-  background: transparent;
-  text-decoration: none;
-}
-
-/* Hover effect - same color as your labels */
-.student-card a.button.small:hover {
-  background-color: #567787 !important;
-  border-color: #567787 !important;
-  color: #fff !important;
-}
-
+    /* Hover effect - match label color */
+    .student-card a.button.small:hover {
+      background-color: #567787 !important;
+      border-color: #567787 !important;
+      color: #fff !important;
+    }
 
     </style>
 
