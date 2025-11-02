@@ -46,7 +46,7 @@ function buildNavigation(id) {
       <li><a class="icon solid fa-home" href="index.html" target="_self">Homepage</a></li>
       <li><a class="icon solid fa-user" href="bio.html" target="_self">About Me</a></li>
       <li><a class="icon solid fa-graduation-cap" href="publications.html" target="_self"> Publications</a></li>
-      <li><a class="icon solid fa-university" href="students.html" target="_self">Students</a></li>
+      <li><a class="icon solid fa-university" href="students.html" target="_self">Teaching</a></li>
       <li><a class="icon solid fa-code" href="code.html" target="_self">Open Source Code</a></li>
     </ul>`;
 }
