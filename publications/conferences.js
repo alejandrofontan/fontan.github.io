@@ -16,7 +16,7 @@ const pubConferences = [
     "thumblink": "https://github.com/VSLAM-LAB/VSLAM-LAB",
     "year": "2025",
     "pages": "Hangzhou, China, October",
-    "links": [{"name": "Paper", "link": "https://arxiv.org/pdf/2504.04457?"}, {"name": "Code", "link": "https://github.com/VSLAM-LAB/VSLAM-LAB"}, {"name": "YaouTube", "link": "https://www.youtube.com/@VSLAM-LAB"}, { "name": "IROS25", "link": "https://www.iros25.org/" }],
+    "links": [{"name": "Paper", "link": "https://arxiv.org/pdf/2504.04457?"}, {"name": "Code", "link": "https://github.com/VSLAM-LAB/VSLAM-LAB"}, {"name": "YouTube Channel", "link": "https://www.youtube.com/@VSLAM-LAB"}, { "name": "IROS25", "link": "https://youtu.be/BCVkhITwjO0" }],
     "stars": ["> 350 stars on GitHub"]
   },
   {
