@@ -16,7 +16,7 @@ const pubConferences = [
     "thumblink": "https://github.com/VSLAM-LAB/VSLAM-LAB",
     "year": "2025",
     "pages": "Hangzhou, China, October",
-    "links": [{"name": "Paper", "link": "https://arxiv.org/pdf/2504.04457?"}, {"name": "Code", "link": "https://github.com/VSLAM-LAB/VSLAM-LAB"}, {"name": "YouTube", "link": "https://www.youtube.com/@VSLAM-LAB"}, { "name": "IROS25", "link": "https://www.iros25.org/" }],
+    "links": [{"name": "Paper", "link": "https://arxiv.org/pdf/2504.04457?"}, {"name": "Code", "link": "https://github.com/VSLAM-LAB/VSLAM-LAB"}, {"name": "YouTube", "link": "https://www.youtube.com/@VSLAM-LAB"}, { "name": "IROS25", "link": "https://youtu.be/BCVkhITwjO0" }],
     "stars": ["> 350 stars on GitHub"]
   },
   {
@@ -27,7 +27,7 @@ const pubConferences = [
     "thumblink": "https://github.com/alejandrofontan/AnyFeature-VSLAM",
     "year": "2024",
     "pages": "Delft, The Netherlands, July",
-    "links": [{"name": "Paper", "link": "https://www.roboticsproceedings.org/rss20/p084.html"}, { "name": "Code", "link": "https://github.com/alejandrofontan/AnyFeature-VSLAM" }, {"name": "RSS24", "link": "https://roboticsconference.org/2024/"}],
+    "links": [{"name": "Paper", "link": "https://www.roboticsproceedings.org/rss20/p084.html"}, { "name": "Code", "link": "https://github.com/alejandrofontan/AnyFeature-VSLAM" }, {"name": "RSS24", "link": "https://youtu.be/z8SngyQiM0k"}],
     "stars": ["> 130 stars on GitHub"]
   },
   {
