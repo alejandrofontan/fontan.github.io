@@ -89,24 +89,25 @@
         flex-wrap: wrap;
         gap: 8px;
       }
-
+      
       .student-card .pub-badge {
         display: inline-block;
-        font-size: 0.75em;
-        font-weight: 500;
-        color: #0077b5;
-        background-color: rgba(0, 119, 181, 0.08);
-        border: 1px solid rgba(0, 119, 181, 0.25);
-        border-radius: 999px; /* fully rounded pill */
-        padding: 1px 8px;
+        font-size: 0.7em;               /* small text */
+        font-weight: 700;               /* bold */
+        color: #fff;                    /* white text */
+        background-color: #0077b5;      /* LinkedIn blue background */
+        border: 1px solid rgba(0, 119, 181, 0.8);
+        border-radius: 999px;           /* fully rounded pill */
+        padding: 1px 8px;               /* thinner pill shape */
         text-decoration: none;
+        letter-spacing: 0.2px;
         transition: all 0.2s ease;
       }
 
       .student-card .pub-badge:hover {
-        background-color: rgba(0, 119, 181, 0.15);
-        border-color: rgba(0, 119, 181, 0.45);
-        color: #005983;
+        background-color: #005983;      /* slightly darker blue on hover */
+        border-color: #005983;
+        color: #fff;                    /* keep white text on hover */
       }
 
       /* --- LinkedIn button styling --- */
