@@ -117,6 +117,9 @@
       height: 16px;
       vertical-align: middle;
       margin-right: 6px;
+      border-radius: 0;       /* ✅ removes circular shape */
+      object-fit: contain;    /* keeps proportions clean */
+      overflow: visible;      /* ensures no clipping */
     }
 
     /* Make LinkedIn text slightly larger and bolder */
@@ -124,16 +127,16 @@
       font-size: 1.05em;
       font-weight: 600;
       border: 1px solid rgba(86, 119, 135, 0.9);
-      color: #567787; /* default text color to match theme */
+      color: #567787;
     }
 
     /* Hover effect - match label color */
     .student-card a.button.small:hover {
-      background-color: #567787 !important; /* same as badge background */
+      background-color: #567787 !important;
       border-color: #567787 !important;
-      color: #fff !important; /* white text for contrast */
+      color: #fff !important;
     }
-    
+
     </style>
 
     <div class="row">
