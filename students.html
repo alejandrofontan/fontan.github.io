@@ -51,7 +51,9 @@
         <!-- <li><a href="#projects" class="button" target="_self">Student Projects</a></li> -->
       </ul>
     </section>
-<!-- Supervision PhD Thesis -->
+
+
+  <!-- Supervision PhD Thesis -->
 <section id="phd">
   <h1>PhD Supervision</h1>
 
@@ -79,9 +81,9 @@
       margin-bottom: 0.8em;
     }
 
-    /* slimmer, more spaced badges */
+    /* --- Publication badge section --- */
     .student-card .pub-badges {
-      margin: 16px 0 14px 0; /* more vertical space */
+      margin: 18px 0 16px 0;
       display: flex;
       justify-content: center;
       flex-wrap: wrap;
@@ -90,21 +92,24 @@
 
     .student-card .pub-badge {
       display: inline-block;
-      font-size: 0.75em;               /* thinner text */
-      background-color: #0077b5;
-      color: #fff;
-      padding: 2px 7px;                /* thinner pill */
-      border-radius: 10px;
+      font-size: 0.75em;
+      font-weight: 500;
+      color: #0077b5;
+      background-color: rgba(0, 119, 181, 0.08);
+      border: 1px solid rgba(0, 119, 181, 0.25);
+      border-radius: 999px; /* fully rounded pill */
+      padding: 3px 10px;
       text-decoration: none;
-      letter-spacing: 0.2px;
-      transition: background-color 0.2s ease, transform 0.2s ease;
+      transition: all 0.2s ease;
     }
 
     .student-card .pub-badge:hover {
-      background-color: #005983;
-      transform: translateY(-1px);
+      background-color: rgba(0, 119, 181, 0.15);
+      border-color: rgba(0, 119, 181, 0.45);
+      color: #005983;
     }
 
+    /* --- LinkedIn button styling --- */
     .student-card .linkedin-icon {
       width: 16px;
       height: 16px;
@@ -135,10 +140,12 @@
           and
           <a href="https://www.qut.edu.au/research/michael-milford">Prof. Michael Milford</a>.
         </p>
+
         <div class="pub-badges">
-          <a href="https://ieeexplore.ieee.org/document/example1" class="pub-badge" target="_blank">ICRA 2024</a>
-          <a href="https://ieeexplore.ieee.org/document/example2" class="pub-badge" target="_blank">RA-L 2023</a>
+          <a href="https://ieeexplore.ieee.org/document/example1" class="pub-badge" target="_blank">ICRA&nbsp;2024</a>
+          <a href="https://ieeexplore.ieee.org/document/example2" class="pub-badge" target="_blank">RA-L&nbsp;2023</a>
         </div>
+
         <p>
           <a href="https://www.linkedin.com/in/sontung1404/" class="button small" target="_blank">
             <img src="images/linkedin.svg" alt="LinkedIn icon" class="linkedin-icon"> LinkedIn
@@ -162,9 +169,11 @@
           and
           <a href="https://www.qut.edu.au/research/michael-milford">Prof. Michael Milford</a>.
         </p>
+
         <div class="pub-badges">
-          <a href="https://ieeexplore.ieee.org/document/example3" class="pub-badge" target="_blank">CVPR 2025</a>
+          <a href="https://ieeexplore.ieee.org/document/example3" class="pub-badge" target="_blank">CVPR&nbsp;2025</a>
         </div>
+
         <p>
           <a href="https://www.linkedin.com/in/example2/" class="button small" target="_blank">
             <img src="images/linkedin.svg" alt="LinkedIn icon" class="linkedin-icon"> LinkedIn
@@ -188,10 +197,12 @@
           and
           <a href="https://www.qut.edu.au/research/michael-milford">Prof. Michael Milford</a>.
         </p>
+
         <div class="pub-badges">
-          <a href="https://arxiv.org/abs/example4" class="pub-badge" target="_blank">arXiv 2024</a>
-          <a href="https://ieeexplore.ieee.org/document/example5" class="pub-badge" target="_blank">ICCV 2023</a>
+          <a href="https://arxiv.org/abs/example4" class="pub-badge" target="_blank">arXiv&nbsp;2024</a>
+          <a href="https://ieeexplore.ieee.org/document/example5" class="pub-badge" target="_blank">ICCV&nbsp;2023</a>
         </div>
+
         <p>
           <a href="https://www.linkedin.com/in/example3/" class="button small" target="_blank">
             <img src="images/linkedin.svg" alt="LinkedIn icon" class="linkedin-icon"> LinkedIn
@@ -215,9 +226,11 @@
           and
           <a href="https://www.linkedin.com/in/jcivera/">Prof. Javier Civera</a>.
         </p>
+
         <div class="pub-badges">
-          <a href="https://ieeexplore.ieee.org/document/example6" class="pub-badge" target="_blank">IROS 2020</a>
+          <a href="https://ieeexplore.ieee.org/document/example6" class="pub-badge" target="_blank">IROS&nbsp;2020</a>
         </div>
+
         <p>
           <a href="https://www.linkedin.com/in/iballester/" class="button small" target="_blank">
             <img src="images/linkedin.svg" alt="LinkedIn icon" class="linkedin-icon"> LinkedIn
@@ -228,6 +241,7 @@
   </div>
 </section>
 
+  
 
   <!-- Supervision Master Thesis -->
   <section id="masterthesis">
