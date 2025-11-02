@@ -52,35 +52,74 @@
       </ul>
     </section>
 
-  <!-- Supervision PhD Thesis -->
-  <section id="phd">
-    <h1>PhD Supervision</h1>
-    <div class="row">
-      <article class="col-4 col-12-xsmall work-item">
-        <div class="card" style="text-align:center; padding:1em;">
-          <img src="images/students/Son_Tung_Nguyen.jpeg" alt="Son Tung Nguyen"
-              style="width:120px; height:120px; border-radius:50%; object-fit:cover; margin-bottom:0.8em;">
-            <h3>Son Tung Nguyen</h3>
-            <p>Associate PhD supervisor <br>
-            <strong>Memory-Efficient Visual Localization</strong> <br>
-            Aug 2022 – Oct 2025<br>  
-            <a href="https://www.qut.edu.au/">Queensland University of Technology</a><br>
-            Co-supervised with  
-            <a href="https://www.tobiasfischer.info/index.html">Dr. Tobias Fischer</a>, 
-            and 
-            <a href="https://www.qut.edu.au/research/michael-milford">Prof. Michael Milford</a>.
-          </p>
-          <p>
-            <a href="https://www.linkedin.com/in/sontung1404/" class="button small" target="_blank">
-            <img src="images/linkedin.svg" alt="LinkedIn icon" style="width:16px; height:16px; 
-            vertical-align:middle; margin-right:6px;"> LinkedIn
-            </a>
-          </p>
-        </div>
-      </article>
-    </div>
-  </section>
+<!-- Supervision PhD Thesis -->
+<section id="phd">
+  <h1>PhD Supervision</h1>
 
+  <!-- Custom style just for this section -->
+  <style>
+    .student-card {
+      text-align: center;
+      padding: 1em;
+      border-radius: 10px;
+      box-shadow: 0 0 12px rgba(255, 105, 180, 0.4);
+      border: 2px solid rgba(255, 182, 193, 0.6); /* light pink border */
+      transition: box-shadow 0.25s ease, transform 0.2s ease;
+    }
+
+    .student-card:hover {
+      box-shadow: 0 0 20px rgba(255, 105, 180, 0.8);
+      transform: translateY(-3px);
+    }
+
+    .student-card img {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 0.8em;
+    }
+
+    .student-card .linkedin-icon {
+      width: 16px;
+      height: 16px;
+      vertical-align: middle;
+      margin-right: 6px;
+      filter: brightness(0) invert(1);
+    }
+
+    /* Optional: make LinkedIn button slightly pink on hover */
+    .student-card a.button.small:hover {
+      background-color: #ff69b4 !important;
+      border-color: #ff69b4 !important;
+      color: #fff !important;
+    }
+  </style>
+
+  <div class="row">
+    <article class="col-4 col-12-xsmall work-item">
+      <div class="card student-card">
+        <img src="images/students/Son_Tung_Nguyen.jpeg" alt="Son Tung Nguyen">
+        <h3>Son Tung Nguyen</h3>
+        <p>
+          Associate PhD supervisor <br>
+          <strong>Memory-Efficient Visual Localization</strong> <br>
+          Aug 2022 – Oct 2025<br>
+          <a href="https://www.qut.edu.au/">Queensland University of Technology</a><br>
+          Co-sup. with
+          <a href="https://www.tobiasfischer.info/index.html">Dr. Tobias Fischer</a>,
+          and
+          <a href="https://www.qut.edu.au/research/michael-milford">Prof. Michael Milford</a>.
+        </p>
+        <p>
+          <a href="https://www.linkedin.com/in/sontung1404/" class="button small" target="_blank">
+            <img src="images/linkedin.svg" alt="LinkedIn icon" class="linkedin-icon"> LinkedIn
+          </a>
+        </p>
+      </div>
+    </article>
+  </div>
+</section>
 
   <!-- Supervision Master Thesis -->
   <section id="masterthesis">
