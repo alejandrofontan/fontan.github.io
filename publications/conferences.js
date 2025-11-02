@@ -16,7 +16,7 @@ const pubConferences = [
     "thumblink": "https://github.com/VSLAM-LAB/VSLAM-LAB",
     "year": "2025",
     "pages": "Hangzhou, China, October",
-    "links": [{"name": "Paper", "link": "https://arxiv.org/pdf/2504.04457?"}, {"name": "Code", "link": "https://github.com/VSLAM-LAB/VSLAM-LAB"}, {"name": "YouTube Channel", "link": "https://www.youtube.com/@VSLAM-LAB"}, { "name": "IROS25", "link": "https://youtu.be/BCVkhITwjO0" }],
+    "links": [{"name": "Paper", "link": "https://arxiv.org/pdf/2504.04457?"}, {"name": "Code", "link": "https://github.com/VSLAM-LAB/VSLAM-LAB"}, {"name": "YouTube", "link": "https://www.youtube.com/@VSLAM-LAB"}, { "name": "IROS25", "link": "https://www.iros25.org/" }],
     "stars": ["> 350 stars on GitHub"]
   },
   {
@@ -27,7 +27,7 @@ const pubConferences = [
     "thumblink": "https://github.com/alejandrofontan/AnyFeature-VSLAM",
     "year": "2024",
     "pages": "Delft, The Netherlands, July",
-    "links": [{"name": "Paper", "link": "https://www.roboticsproceedings.org/rss20/p084.html"}, { "name": "Code", "link": "https://github.com/alejandrofontan/AnyFeature-VSLAM" }, {"name": "RSS24", "link": "https://youtu.be/z8SngyQiM0k"}],
+    "links": [{"name": "Paper", "link": "https://www.roboticsproceedings.org/rss20/p084.html"}, { "name": "Code", "link": "https://github.com/alejandrofontan/AnyFeature-VSLAM" }, {"name": "RSS24", "link": "https://roboticsconference.org/2024/"}],
     "stars": ["> 130 stars on GitHub"]
   },
   {
@@ -38,7 +38,7 @@ const pubConferences = [
     "thumblink": "https://youtu.be/Ja6QwYiKlu8",
     "year": "2020",
     "pages": "Virtual, June",
-    "links": [{"name": "Paper", "link": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Fontan_Information-Driven_Direct_RGB-D_Odometry_CVPR_2020_paper.pdf"}, { "name": "YouTube", "link": "https://youtu.be/Ja6QwYiKlu8" }, {"name": "CVPR20", "link": "https://youtu.be/Ja6QwYiKlu8"}],
+    "links": [{"name": "Paper", "link": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Fontan_Information-Driven_Direct_RGB-D_Odometry_CVPR_2020_paper.pdf"}, { "name": "YouTube", "link": "https://youtu.be/Ja6QwYiKlu8" }, {"name": "CVPR20", "link": "https://cvpr2020.thecvf.com/"}],
     "awards": ["Oral Presentation"]
   },
   // {
