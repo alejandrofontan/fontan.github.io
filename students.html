@@ -1,121 +1,222 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE HTML>
+<!--
+	Based on Strata by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	Adapted by Lukas Schmid
+-->
+
+<html>
+
 <head>
+  <title>Alejandro Fontan</title>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Alejandro Fontan – Students & Supervision</title>
-  <meta name="description" content="Supervision of PhD and Master students by Alejandro Fontan." />
-  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-
-  <!-- Bootstrap CSS -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/main.css">
-
-  <style>
-    body {
-      background-color: #f8f9fa;
-    }
-    h1, h2 {
-      font-weight: 700;
-      text-transform: uppercase;
-      margin-bottom: 1.5rem;
-    }
-    .student-card img {
-      width: 100px;
-      height: 100px;
-      object-fit: cover;
-    }
-    .student-card {
-      transition: transform 0.2s ease;
-    }
-    .student-card:hover {
-      transform: translateY(-4px);
-    }
-    footer {
-      margin-top: 3rem;
-      padding: 2rem 0;
-      background: #e9ecef;
-      text-align: center;
-    }
-  </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes, minimum-scale=1" />
+  <link rel="stylesheet" href="assets/css/main.css" />
+  <base target="_blank">
+  <link rel="icon" type="image/x-icon" href="images/favicon.ico">
 </head>
 
-<body>
-  <header class="py-3 bg-light text-center shadow-sm">
-    <h1 class="mb-0">Teaching & Supervision</h1>
-  </header>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RKGKPT9DC6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', 'G-RKGKPT9DC6');
+</script>
 
-  <main class="container my-5">
+<body class="is-preload">
+  <header id="header"></header>
+  <nav id="nav"></nav>
 
-    <!-- PhD Supervision Section -->
-    <section id="phd" class="mb-5">
-      <h2>PhD Supervision</h2>
-      <div class="row g-4">
-        <div class="col-md-6 col-lg-4">
-          <div class="card student-card h-100 border-0 shadow-sm">
-            <div class="card-body text-center">
-              <img src="images/students/default_phd.jpg" class="rounded-circle mb-3" alt="Son Tung Nguyen">
-              <h5 class="card-title mb-1">
-                <a href="https://www.linkedin.com/in/sontung1404/" target="_blank" class="text-decoration-none">
-                  Son Tung Nguyen
-                </a>
-              </h5>
-              <p class="text-muted small mb-2">PhD Candidate (2022–2025)</p>
-              <p class="fw-semibold mb-2">Memory-Efficient Visual Localization</p>
-              <p class="small mb-3">
-                Queensland University of Technology<br>
-                Co-supervised with 
-                <a href="https://research.qut.edu.au/qcr/people/alejandro-fontan-villacampa/">Dr. Alejandro Fontan</a>,
-                <a href="https://www.tobiasfischer.info/index.html">Dr. Tobias Fischer</a>,
-                and
-                <a href="https://www.qut.edu.au/research/michael-milford">Prof. Michael Milford</a>.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
+  <!-- Main -->
+  <div id="main">
+
+    <!-- Welcome -->
+    <section id="welcome">
+      <header class="major">
+        <h1>Teaching</h1>
+      </header>
+      <!-- <p> I'm passionate about the education of the next generation of scientists and engineers. Next to teaching
+        lectures and
+        exercise classes, I strongly contribute to this through the supervision of Master, Semester,
+        and
+        Bachelor Theses, or other research projects.
+      </p> -->
+
+      <ul class="actions">
+        <!-- <li><a href="#lectures" class="button" target="_self">Lectures</a></li> -->
+        <!-- <li><a href="#assistant" class="button" target="_self">Teaching Assistant</a></li> -->
+        <!-- <li><a href="#projects" class="button" target="_self">Student Projects</a></li> -->
+      </ul>
     </section>
 
-    <!-- Master Thesis Section -->
-    <section id="masterthesis" class="mb-5">
-      <h2>Master's Theses</h2>
-      <div class="row g-4">
-        <div class="col-md-6 col-lg-4">
-          <div class="card student-card h-100 border-0 shadow-sm">
-            <div class="card-body text-center">
-              <img src="images/students/default_master.jpg" class="rounded-circle mb-3" alt="Irene Ballester">
-              <h5 class="card-title mb-1">
-                <a href="https://cvl.tuwien.ac.at/staff/irene-ballester-campos/" target="_blank" class="text-decoration-none">
-                  Irene Ballester
-                </a>
-              </h5>
-              <p class="text-muted small mb-2">Master’s Thesis (2020)</p>
-              <p class="fw-semibold mb-2">
-                <a href="https://zaguan.unizar.es/record/96286" target="_blank">
-                  Robust Visual SLAM in Dynamic Environments Combining Deep Learning and Multiview Consistency
-                </a>
-              </p>
-              <p class="small mb-3">
-                University of Zaragoza<br>
-                Supervised by 
-                <a href="https://research.qut.edu.au/qcr/people/alejandro-fontan-villacampa/">Dr. Alejandro Fontan</a>,
-                <a href="http://www.klaustro.com/">Dr. Klaus H. Strobl</a>,
-                and
-                <a href="https://i3a.unizar.es/es/investigadores/javier-civera-sancho">Prof. Javier Civera</a>.
-              </p>
-            </div>
-          </div>
+  <!-- Supervision PhD Thesis -->
+  <section id="phd">
+    <h1>PhD Supervision</h1>
+    <div class="row">
+      <article class="col-4 col-12-xsmall work-item">
+        <div class="card" style="text-align:center; padding:1em;">
+          <img src="images/students/sontung.jpg" alt="Son Tung Nguyen"
+              style="width:120px; height:120px; border-radius:50%; object-fit:cover; margin-bottom:0.8em;">
+          <h3>Son Tung Nguyen</h3>
+          <p><strong>Memory-Efficient Visual Localization</strong><br>
+            2022–2025<br>
+            Associate PhD supervisor at 
+            <a href="https://www.qut.edu.au/">Queensland University of Technology</a><br>
+            Co-supervised with 
+            <a href="https://research.qut.edu.au/qcr/people/alejandro-fontan-villacampa/">Dr. Alejandro Fontan</a>, 
+            <a href="https://www.tobiasfischer.info/index.html">Dr. Tobias Fischer</a>, 
+            and 
+            <a href="https://www.qut.edu.au/research/michael-milford">Prof. Michael Milford</a>.
+          </p>
+          <p>
+            <a href="https://www.linkedin.com/in/sontung1404/" class="button small" target="_blank">LinkedIn</a>
+          </p>
         </div>
+      </article>
+    </div>
+  </section>
+
+
+  <!-- Supervision Master Thesis -->
+  <section id="masterthesis">
+    <h1>Master's Thesis</h1>
+    <p>I supervised the following master's thesis:</p>
+    <ul>
+      <li>
+        <a href="https://zaguan.unizar.es/record/96286">
+          <strong>Robust Visual SLAM in Dynamic Environments Combining Deep Learning and Multiview Consistency</strong>
+        </a>, 2020, 
+        <a href="https://cvl.tuwien.ac.at/staff/irene-ballester-campos/">Irene Ballester</a>’s master's thesis at the
+        <a href="https://www.unizar.es/">University of Zaragoza</a>,
+        supervised by
+        <a href="https://research.qut.edu.au/qcr/people/alejandro-fontan-villacampa/">Dr. Alejandro Fontan</a>,
+        <a href="http://www.klaustro.com/">Dr. Klaus H. Strobl</a>,
+        and
+        <a href="https://i3a.unizar.es/es/investigadores/javier-civera-sancho">Prof. Javier Civera</a>.
+      </li>
+    </ul>
+  </section>
+
+    <!-- Lectures -->
+    <!-- <section id="lectures">
+      <h1>Lectures</h1>
+      <p> I was a guest lecturer for the following courses: </p>
+
+      <ul>
+        <li><a href="https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public"><strong>Mobile Robotics: Methods and
+              Algorithms</strong></a>, Graduate course at <a href="https://robotics.umich.edu/">University of
+            Michigan</a>, with <a href="https://robotics.umich.edu/profile/maani-ghaffari/">Prof.
+            Maani Ghaffari</a>. (2024)</li>
+        <li><a href="https://vnav.mit.edu/"><strong>Visual Navigation for Autonomous
+              Vehicles</strong></a>, Graduate course at <a href="https://www.mit.edu/">MIT</a>, with <a
+            href="https://lucacarlone.mit.edu/">Prof.
+            Luca Carlone</a>. (2023)</li>
+      </ul>
+
+    </section> -->
+
+    <!-- Teaching -->
+    <!-- <section id="assistant">
+      <h1>Teaching Assistant</h1>
+      <p> I was a teaching assistantfor the following courses: </p>
+
+      <ul>
+        <li><a href="https://vnav.mit.edu/"><strong>Visual Navigation for Autonomous
+              Vehicles</strong></a>, Graduate course at <a href="https://www.mit.edu/">MIT</a>, with <a
+            href="https://lucacarlone.mit.edu/">Prof.
+            Luca Carlone</a>. (2023)</li>
+        <li><a
+            href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&semkez=2023S&lerneinheitId=167009&"><strong>Autonomous
+              Mobile Robots</strong></a>, M.Sc. course at <a href="https://ethz.ch/en.html">ETH
+            Zürich</a>, with <a
+            href="https://asl.ethz.ch/the-lab/people/person-detail.Mjk5ODE=.TGlzdC8yMDI4LDEyMDExMzk5Mjg=.html">Prof.
+            Roland Siegwart</a>. (2020, 2021, 2022)</li>
+
+        <li><a
+            href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=170418&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en"><strong>Perception
+              and Learning for Robotics</strong></a>, M.Sc. course at <a href="https://ethz.ch/de.html">ETH Zürich</a>,
+          with <a
+            href="https://asl.ethz.ch/the-lab/people/person-detail.Mjk5ODE=.TGlzdC8yMDI4LDEyMDExMzk5Mjg=.html">Prof.
+            Roland Siegwart</a>. (2020, 2021, 2022)</li>
+
+        <li><a
+            href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&lerneinheitId=162317&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&"><strong>Advanced
+              Machine Learning</strong></a>, M.Sc. course at <a href="https://ethz.ch/de.html">ETH
+            Zürich</a>, with <a href="https://inf.ethz.ch/people/person-detail.buhmann.html">Prof. Joachim
+            Buhmann</a>.
+          (2018)</li>
+      </ul>
+
+    </section> -->
+
+    <!-- Student Projects -->
+    <!-- <section id="projects">
+      <h1>Student Projects</h1>
+      <p> I have supervised over 45 students in individual projects and theses. I regularly upload project proposals and
+        also accept proactive applications of highly motivated
+        students. If
+        you are interested in working on a project in the fields of robotic scene understanding, active
+        perception, or
+        long-term and continual learning, please send a short CV and transcript to <a
+          href="mailto:lschmid@mit.edu">lschmid@mit.edu</a>. <strong>Please ensure that you are accepted/eligible for an MIT
+        project first.</strong>
+        <br />
+        <br />
+        Examples of past projects:
+      </p>
+
+
+      <div class="row">
+        <article class="col-4 col-12-xsmall work-item">
+          <a href="images/student_projects/active_panoptic_mapping.jpg" class="image fit thumb"><img
+              src="images/student_projects/active_panoptic_mapping.jpg" alt="" /></a>
+        </article>
+
+        <article class="col-4 col-12-xsmall work-item">
+          <a href="images/student_projects/consistent_panoptic_mapping.jpg" class="image fit thumb"><img
+              src="images/student_projects/consistent_panoptic_mapping.jpg" alt="" /></a>
+        </article>
+
+        <article class="col-4 col-12-xsmall work-item">
+          <a href="images/student_projects/incremental_scenegraph_construction.jpg" class="image fit thumb"><img
+              src="images/student_projects/incremental_scenegraph_construction.jpg" alt="" /></a>
+        </article>
+
+        <article class="col-4 col-12-xsmall work-item">
+          <a href="images/student_projects/neural_robotic_mapping.jpg" class="image fit thumb"><img
+              src="images/student_projects/neural_robotic_mapping.jpg" alt="" /></a>
+        </article>
+
+        <article class="col-4 col-12-xsmall work-item">
+          <a href="images/student_projects/scene_completion_for_exploration.jpg" class="image fit thumb"><img
+              src="images/student_projects/scene_completion_for_exploration.jpg" alt="" /></a>
+        </article>
+
+        <article class="col-4 col-12-xsmall work-item">
+          <a href="images/student_projects/lidar_motion_detection.jpg" class="image fit thumb"><img
+              src="images/student_projects/lidar_motion_detection.jpg" alt="" /></a>
+        </article>
       </div>
-    </section>
 
-  </main>
+    </section> -->
 
-  <footer>
-    <p class="mb-0">&copy; 2025 Alejandro Fontan — All Rights Reserved</p>
-  </footer>
+  </div>
 
-  <!-- Bootstrap JS -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <!-- Footer -->
+  <footer id="footer"></footer>
+
+  <!-- Scripts -->
+  <script src="assets/js/jquery.min.js"></script>
+  <script src="assets/js/jquery.poptrox.min.js"></script>
+  <script src="assets/js/browser.min.js"></script>
+  <script src="assets/js/breakpoints.min.js"></script>
+  <script src="assets/js/util.js"></script>
+  <script src="assets/js/build-header-footer.js"></script>
+  <script src="assets/js/main.js"></script>
+
 </body>
+
 </html>
