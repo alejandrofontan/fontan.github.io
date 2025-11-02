@@ -38,7 +38,7 @@ const pubConferences = [
     "thumblink": "https://youtu.be/Ja6QwYiKlu8",
     "year": "2020",
     "pages": "Virtual, June",
-    "links": [{"name": "Paper", "link": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Fontan_Information-Driven_Direct_RGB-D_Odometry_CVPR_2020_paper.pdf"}, { "name": "YouTube", "link": "https://youtu.be/Ja6QwYiKlu8" }, {"name": "CVPR20", "link": "https://cvpr2020.thecvf.com/"}],
+    "links": [{"name": "Paper", "link": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Fontan_Information-Driven_Direct_RGB-D_Odometry_CVPR_2020_paper.pdf"}, { "name": "YouTube", "link": "https://youtu.be/Ja6QwYiKlu8" }, {"name": "CVPR20", "link": "https://youtu.be/Ja6QwYiKlu8"}],
     "awards": ["Oral Presentation"]
   },
   // {
