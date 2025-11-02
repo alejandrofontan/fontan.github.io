@@ -56,19 +56,20 @@
 <section id="phd">
   <h1>PhD Supervision</h1>
 
-  <!-- Custom style just for this section -->
+  <!-- Local styling just for this section -->
   <style>
     .student-card {
       text-align: center;
       padding: 1em;
       border-radius: 10px;
-      box-shadow: 0 0 12px rgba(255, 105, 180, 0.4);
-      border: 2px solid rgba(255, 182, 193, 0.6); /* light pink border */
+      box-shadow: 0 0 12px rgba(0, 0, 0, 0.3); /* black soft shade */
+      border: 2px solid rgba(0, 0, 0, 0.2);
       transition: box-shadow 0.25s ease, transform 0.2s ease;
+      background-color: #fff;
     }
 
     .student-card:hover {
-      box-shadow: 0 0 20px rgba(255, 105, 180, 0.8);
+      box-shadow: 0 0 18px rgba(0, 0, 0, 0.6);
       transform: translateY(-3px);
     }
 
@@ -85,13 +86,12 @@
       height: 16px;
       vertical-align: middle;
       margin-right: 6px;
-      filter: brightness(0) invert(1);
     }
 
-    /* Optional: make LinkedIn button slightly pink on hover */
+    /* optional hover tint for the button */
     .student-card a.button.small:hover {
-      background-color: #ff69b4 !important;
-      border-color: #ff69b4 !important;
+      background-color: #0077b5 !important; /* LinkedIn blue */
+      border-color: #0077b5 !important;
       color: #fff !important;
     }
   </style>
@@ -120,6 +120,7 @@
     </article>
   </div>
 </section>
+
 
   <!-- Supervision Master Thesis -->
   <section id="masterthesis">
