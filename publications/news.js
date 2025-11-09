@@ -16,6 +16,13 @@ const pubNews = [
   //   "caption": "I presented my research on Spatio-Temporal AI at the Georgia Institute of Technology!"
   // },
     {
+    "title": "Huge thanks to everyone who came to my VSLAM-LAB talk, stopped by the poster, or caught me in the halls at #IROS2025 — thank you for your questions, ideas, and conversations! <a href='https://youtu.be/BCVkhITwjO0'/>Talk recording</a>",
+    "date": "10/2025",
+    "image": "2025_IROS.JPG",
+    "thumb": "2025_IROS.JPG",
+    "caption": "Huge thanks to everyone who came to my VSLAM-LAB talk, stopped by the poster, or caught me in the halls at #IROS2025 — thank you for your questions, ideas, and conversations! <a href='https://youtu.be/BCVkhITwjO0'/>Talk recording</a>"
+  },
+  {
     "title": "I attended <a href='https://icvss.dmi.unict.it/icvss2025/'/>ICVSS25</a> on Computer Vision for Spatial Intelligence in Sicily. Learned from world-leading researchers including Davison, Cremers, Isola, Vedaldi & many others. Many thanks to the organizers for putting together such a fantastic event!",
     "date": "7/2025",
     "image": "ICVSS25.JPG",
