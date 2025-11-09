@@ -18,8 +18,8 @@ const pubNews = [
     {
     "title": "Huge thanks to everyone who came to my VSLAM-LAB talk, stopped by the poster, or caught me in the halls at #IROS2025 — thank you for your questions, ideas, and conversations! <a href='https://youtu.be/BCVkhITwjO0'/>Talk recording</a>",
     "date": "10/2025",
-    "image": "2025_IROS.JPG",
-    "thumb": "2025_IROS.JPG",
+    "image": "2025_IROS.png",
+    "thumb": "2025_IROS.png",
     "caption": "Huge thanks to everyone who came to my VSLAM-LAB talk, stopped by the poster, or caught me in the halls at #IROS2025 — thank you for your questions, ideas, and conversations! <a href='https://youtu.be/BCVkhITwjO0'/>Talk recording</a>"
   },
   {
