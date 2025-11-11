@@ -12,7 +12,7 @@ const pubConferences = [
     "authors": ["A. Fontan", "Tobias Fischer", "J. Civera", "M. Milford"],
     "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets",
     "venue": conferenceVenues["IROS"],
-    "thumbimage": "Khronos.jpg",
+    "thumbimage": "code/vslamlab.png",
     "thumblink": "https://github.com/VSLAM-LAB/VSLAM-LAB",
     "year": "2025",
     "pages": "Hangzhou, China, October",
