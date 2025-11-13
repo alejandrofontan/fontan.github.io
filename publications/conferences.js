@@ -5,6 +5,7 @@ const conferenceVenues = {
   "3DV": "IEEE International Conference on 3D Vision (3DV)",
   "IROS": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
   "CVPR": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+  "JFR": "Journal of Field Robotics (JFR)",
 }
 
 const pubConferences = [

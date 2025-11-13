@@ -10,7 +10,16 @@ const pubConferencesCoauthor = [
     "links": [{"name": "Paper", "link": "https://arxiv.org/pdf/2503.04096"}, {"name": "Code", "link": "https://github.com/bev-gorry/underloc"}, {"name": "YouTube", "link": "https://youtu.be/CYrg5-nY0Rw"}, { "name": "IROS25", "link": "https://www.iros25.org/" }],
     "awards": ["Finalist for the IEEE-RAS Outstanding #WiRA Student Paper Award"]
   },
-   {
+  {
+    "authors": ["L. Meyer", "M. Smíšek", "A. Fontan", "L. Oliva-Maza, D. Medina, M. J. Schuster, F. Steidle, M. Vayugundla, M. G. Müller, B. Rebele, A. Wedler, R. Triebel"],
+    "title": "The MADMAX data set for visual‐inertial rover navigation on Mars",
+    "venue": conferenceVenues["JFR"],
+    "thumbimage": "madmax.png",
+    "thumblink": "https://youtu.be/CYrg5-nY0Rw",
+    "year": "2021",
+    "links": [{"name": "Paper", "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rob.22016"}, {"name": "Dataset", "link": "https://datasets.arches-projekt.de/morocco2018/"}],
+  },
+  {
     "authors": ["I. Ballester", "A. Fontan", "J. Civera", "KH. Strobl", "R. Triebel"],
     "title": "DOT: Dynamic Object Tracking for Visual SLAM",
     "venue": conferenceVenues["ICRA"],
