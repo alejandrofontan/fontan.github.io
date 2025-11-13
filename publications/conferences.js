@@ -34,7 +34,7 @@ const pubConferences = [
     "authors": ["A. Fontan", "J. Civera", "R. Triebel"],
     "title": "ID-RGBDO: Information-Driven Direct RGB-D Odometry",
     "venue": conferenceVenues["CVPR"],
-    "thumbimage": "Khronos.jpg",
+    "thumbimage": "ID-RGBDO.png",
     "thumblink": "https://youtu.be/Ja6QwYiKlu8",
     "year": "2020",
     "pages": "Virtual, June",
