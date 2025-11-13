@@ -23,7 +23,7 @@ const pubConferences = [
     "authors": ["A. Fontan", "J. Civera", "M. Milford"],
     "title": "AnyFeature-VSLAM: Automating the Usage of Any Chosen Feature into Visual SLAM",
     "venue": conferenceVenues["RSS"],
-    "thumbimage": "Khronos.jpg",
+    "thumbimage": "AnyFeature-VSLAM-Git.png",
     "thumblink": "https://github.com/alejandrofontan/AnyFeature-VSLAM",
     "year": "2024",
     "pages": "Delft, The Netherlands, July",
