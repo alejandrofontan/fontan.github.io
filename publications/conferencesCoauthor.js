@@ -17,6 +17,7 @@ const pubConferencesCoauthor = [
     "thumbimage": "madmax.png",
     "thumblink": "https://datasets.arches-projekt.de/morocco2018/",
     "year": "2021",
+    "pages": "Wiley Online Library",
     "links": [{"name": "Paper", "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rob.22016"}, {"name": "Dataset", "link": "https://datasets.arches-projekt.de/morocco2018/"}],
   },
   {
