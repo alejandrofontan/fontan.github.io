@@ -3,7 +3,7 @@ const pubConferencesCoauthor = [
     "authors": ["B. Gorry", "T. Fischer", "M. Milford", "A. Fontan"],
     "title": "UnderLoc: Image-Based Relocalization and Alignment for Long-Term Monitoring of Dynamic Underwater Environments",
     "venue": conferenceVenues["IROS"],
-    "thumbimage": "Khronos.jpg",
+    "thumbimage": "underloc.png",
     "thumblink": "https://youtu.be/CYrg5-nY0Rw",
     "year": "2025",
     "pages": "Hangzhou, China, October",
