@@ -1,11 +1,17 @@
 
 const pubCode = {
   "vslamlab": {
-    "link": "https://github.com/alejandrofontan/VSLAM-LAB",
-    "short_url": "/alejandrofontan/VSLAM-LAB",
+    "link": "https://github.com/VSLAM-LAB/VSLAM-LAB",
+    "short_url": "/VSLAM-LAB/VSLAM-LAB",
     "image": "VSLAM-LAB-Git.png", "title": "VSLAM-LAB – A Unified Framework for Visual SLAM Benchmarking",
     "description": "An open-source, reproducible framework for benchmarking Visual SLAM baselines and datasets — all in one place."
   },
+  "anyfeature": {
+    "link": "https://github.com/alejandrofontan/AnyFeature-VSLAM",
+    "short_url": "/alejandrofontan/AnyFeature-VSLAM",
+    "image": "AnyFeature-VSLAM-Git.png", "title": "AnyFeature-VSLAM: Automating the Usage of Any Chosen Feature into Visual SLAM",
+    "description": "An automated visual SLAM library for Monocular cameras capable of switching to a chosen type of feature effortlessly and without manual intervention."
+  },  
   
   // "spatial_hash": {
   //   "link": "https://github.com/MIT-SPARK/Spatial-Hash",

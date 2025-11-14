@@ -37,11 +37,11 @@ const pubNews = [
     "caption": "We organized a <a href='https://vslam-lab.github.io/Unifying-VSLAM-RSS25/'/>Workshop</a> at <a href='https://roboticsconference.org/'/>RSS25</a> in Los Angeles. The recordings of all workshop talks are now available on <a href='https://www.youtube.com/playlist?list=PLm2jyT49-dYAZKv2aK-XLch3zqg8bOAks'/>Youtube</a>!"
   },
   {
-    "title": "Introducing <a href='https://vslam-lab.github.io/Unifying-VSLAM-RSS25/'/>VSLAM-LAB</a>! A Unified Framework for Visual SLAM Benchmarking.",
+    "title": "Introducing <a href='https://github.com/VSLAM-LAB/VSLAM-LAB'/>VSLAM-LAB</a>! A Unified Framework for Visual SLAM Benchmarking.",
     "date": "4/2025",
     "image": "VSLAM-LAB-Git.png",
     "thumb": "VSLAM-LAB-Git.png",
-    "caption": "Introducing <a href='https://vslam-lab.github.io/Unifying-VSLAM-RSS25/'/>VSLAM-LAB</a>! A Unified Framework for Visual SLAM Benchmarking."
+    "caption": "Introducing <a href='https://github.com/VSLAM-LAB/VSLAM-LAB'/>VSLAM-LAB</a>! A Unified Framework for Visual SLAM Benchmarking."
   },
   // {
   //   "title": "I presented my research on Spatio-Temporal AI at Boston University!",
