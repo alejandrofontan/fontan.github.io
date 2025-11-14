@@ -4,7 +4,8 @@ const pubCode = {
     "link": "https://github.com/VSLAM-LAB/VSLAM-LAB",
     "short_url": "/VSLAM-LAB/VSLAM-LAB",
     "image": "VSLAM-LAB-Git.png", "title": "VSLAM-LAB – A Unified Framework for Visual SLAM Benchmarking",
-    "description": "An open-source, reproducible framework for benchmarking Visual SLAM baselines and datasets — all in one place."
+    "description": "An open-source, reproducible framework for benchmarking Visual SLAM baselines and datasets — all in one place.",
+    "stars": "> 350 stars on GitHub"
   },
   "anyfeature": {
     "link": "https://github.com/alejandrofontan/AnyFeature-VSLAM",

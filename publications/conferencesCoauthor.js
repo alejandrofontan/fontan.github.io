@@ -11,6 +11,16 @@ const pubConferencesCoauthor = [
     "awards": ["Finalist for the IEEE-RAS Outstanding #WiRA Student Paper Award"]
   },
   {
+    "authors": ["S.T. Nguyen", "A. Fontan", "M. Milford", "T. Fischer"],
+    "title": "FUSELOC: Fusing Global and Local Descriptors to Disambiguate 2D-3D Matching in Visual Localization",
+    "venue": conferenceVenues["ICCV-WS"],
+    "thumbimage": "fuseloc.png",
+    "thumblink": "https://arxiv.org/pdf/2311.02872",
+    "year": "2025",
+    "pages": "Waikoloa, Hawaii, October",
+    "links": [{"name": "Paper", "link": "https://openaccess.thecvf.com/content/ICCV2025W/CALIPOSE/papers/Nguyen_FUSELOC_Fusing_Global_and_Local_Descriptors_for_Fast_and_Robust_ICCVW_2025_paper.pdf"}, {"name": "Code", "link": "https://github.com/sontung/descriptor-disambiguation"}],
+  }, 
+  {
     "authors": ["M. Windsor", "A. Fontan", "P. Pivonka", "M. Milford"],
     "title": "Forward prediction of target localization failure through pose estimation artifact modelling",
     "venue": conferenceVenues["RA-L"],
@@ -20,16 +30,6 @@ const pubConferencesCoauthor = [
     "pages": "Hangzhou, China, October",
     "links": [{"name": "Paper", "link": "https://ieeexplore.ieee.org/abstract/document/10480534"}],
   },
-  // {
-  //   "authors": ["M Windsor", "A. Fontan", "P Pivonka", "M. Milford"],
-  //   "title": "Forward prediction of target localization failure through pose estimation artifact modelling",
-  //   "venue": conferenceVenues["RA-L"],
-  //   "thumbimage": "morgan.png",
-  //   "thumblink": "https://arxiv.org/pdf/2311.02872",
-  //   "year": "2024",
-  //   "pages": "Vol. 9, No. 5, May",
-  //   "links": [{"name": "Paper", "link": "https://ieeexplore.ieee.org/abstract/document/10480534/"}],
-  // },  
   {
     "authors": ["S.T. Nguyen", "A. Fontan", "M. Milford", "T. Fischer"],
     "title": "FocusTune: Tuning Visual Localization through Focus-Guided Sampling",

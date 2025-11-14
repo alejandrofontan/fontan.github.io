@@ -8,6 +8,8 @@ const conferenceVenues = {
   "JFR": "Journal of Field Robotics (JFR)",
   "WACV": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
   "RA-L": "IEEE Robotics and Automation Letters (RA-L)",
+  "ICCV": "IEEE/CVF International Conference on Computer Vision (ICCV)",
+  "ICCV-WS": "Workshop in IEEE/CVF International Conference on Computer Vision (ICCV)",
 }
 
 const pubConferences = [
