@@ -18,7 +18,7 @@ const pubConferencesCoauthor = [
     "thumblink": "https://ieeexplore.ieee.org/abstract/document/10480534",
     "year": "2025",
     "pages": "Hangzhou, China, October",
-    "links": [{"name": "Paper", "link": "https://ieeexplore.ieee.org/abstract/document/10480534"}, {"name": "Code", "link": "https://github.com/bev-gorry/underloc"}, {"name": "YouTube", "link": "https://youtu.be/CYrg5-nY0Rw"}, { "name": "IROS25", "link": "https://www.iros25.org/" }],
+    "links": [{"name": "Paper", "link": "https://ieeexplore.ieee.org/abstract/document/10480534"}],
   },
   // {
   //   "authors": ["M Windsor", "A. Fontan", "P Pivonka", "M. Milford"],
