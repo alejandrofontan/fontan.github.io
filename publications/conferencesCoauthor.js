@@ -10,6 +10,17 @@ const pubConferencesCoauthor = [
     "links": [{"name": "Paper", "link": "https://arxiv.org/pdf/2503.04096"}, {"name": "Code", "link": "https://github.com/bev-gorry/underloc"}, {"name": "YouTube", "link": "https://youtu.be/CYrg5-nY0Rw"}, { "name": "IROS25", "link": "https://www.iros25.org/" }],
     "awards": ["Finalist for the IEEE-RAS Outstanding #WiRA Student Paper Award"]
   },
+  {
+    "authors": ["B. Gorry", "T. Fischer", "M. Milford", "A. Fontan"],
+    "title": "UnderLoc: Image-Based Relocalization and Alignment for Long-Term Monitoring of Dynamic Underwater Environments",
+    "venue": conferenceVenues["IROS"],
+    "thumbimage": "underloc.png",
+    "thumblink": "https://youtu.be/CYrg5-nY0Rw",
+    "year": "2025",
+    "pages": "Hangzhou, China, October",
+    "links": [{"name": "Paper", "link": "https://arxiv.org/pdf/2503.04096"}, {"name": "Code", "link": "https://github.com/bev-gorry/underloc"}, {"name": "YouTube", "link": "https://youtu.be/CYrg5-nY0Rw"}, { "name": "IROS25", "link": "https://www.iros25.org/" }],
+    "awards": ["Finalist for the IEEE-RAS Outstanding #WiRA Student Paper Award"]
+  },
   // {
   //   "authors": ["M Windsor", "A. Fontan", "P Pivonka", "M. Milford"],
   //   "title": "Forward prediction of target localization failure through pose estimation artifact modelling",
