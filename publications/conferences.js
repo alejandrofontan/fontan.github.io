@@ -7,6 +7,7 @@ const conferenceVenues = {
   "CVPR": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
   "JFR": "Journal of Field Robotics (JFR)",
   "WACV": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+  "RA-L": "IEEE Robotics and Automation Letters (RA-L)",
 }
 
 const pubConferences = [

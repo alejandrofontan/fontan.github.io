@@ -11,6 +11,16 @@ const pubConferencesCoauthor = [
     "awards": ["Finalist for the IEEE-RAS Outstanding #WiRA Student Paper Award"]
   },
   {
+    "authors": ["M Windsor", "A. Fontan", "P Pivonka", "M. Milford"],
+    "title": "Forward prediction of target localization failure through pose estimation artifact modelling",
+    "venue": conferenceVenues["RA-L"],
+    "thumbimage": "morgan.png",
+    "thumblink": "https://arxiv.org/pdf/2311.02872",
+    "year": "2024",
+    "pages": "Vol. 9, No. 5, May",
+    "links": [{"name": "Paper", "link": "https://ieeexplore.ieee.org/abstract/document/10480534/"}],
+  },  
+  {
     "authors": ["S.T. Nguyen", "A. Fontan", "M. Milford", "T. Fischer"],
     "title": "FocusTune: Tuning Visual Localization through Focus-Guided Sampling",
     "venue": conferenceVenues["WACV"],
