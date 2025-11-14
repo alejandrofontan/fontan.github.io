@@ -15,10 +15,10 @@ const pubConferencesCoauthor = [
     "title": "Forward prediction of target localization failure through pose estimation artifact modelling",
     "venue": conferenceVenues["RA-L"],
     "thumbimage": "morgan.png",
-    "thumblink": "https://youtu.be/CYrg5-nY0Rw",
+    "thumblink": "https://ieeexplore.ieee.org/abstract/document/10480534",
     "year": "2025",
     "pages": "Hangzhou, China, October",
-    "links": [{"name": "Paper", "link": "https://arxiv.org/pdf/2503.04096"}, {"name": "Code", "link": "https://github.com/bev-gorry/underloc"}, {"name": "YouTube", "link": "https://youtu.be/CYrg5-nY0Rw"}, { "name": "IROS25", "link": "https://www.iros25.org/" }],
+    "links": [{"name": "Paper", "link": "https://ieeexplore.ieee.org/abstract/document/10480534"}, {"name": "Code", "link": "https://github.com/bev-gorry/underloc"}, {"name": "YouTube", "link": "https://youtu.be/CYrg5-nY0Rw"}, { "name": "IROS25", "link": "https://www.iros25.org/" }],
   },
   // {
   //   "authors": ["M Windsor", "A. Fontan", "P Pivonka", "M. Milford"],
