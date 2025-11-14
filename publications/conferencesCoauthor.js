@@ -14,7 +14,7 @@ const pubConferencesCoauthor = [
     "authors": ["M. Windsor", "A. Fontan", "P. Pivonka", "M. Milford"],
     "title": "Forward prediction of target localization failure through pose estimation artifact modelling",
     "venue": conferenceVenues["RA-L"],
-    "thumbimage": "underloc.png",
+    "thumbimage": "morgan.png",
     "thumblink": "https://youtu.be/CYrg5-nY0Rw",
     "year": "2025",
     "pages": "Hangzhou, China, October",
