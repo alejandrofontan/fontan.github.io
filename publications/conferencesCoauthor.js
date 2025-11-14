@@ -11,6 +11,16 @@ const pubConferencesCoauthor = [
     "awards": ["Finalist for the IEEE-RAS Outstanding #WiRA Student Paper Award"]
   },
   {
+    "authors": ["S.T. Nguyen", "A. Fontan", "M. Milford", "T. Fischer"],
+    "title": "FocusTune: Tuning Visual Localization through Focus-Guided Sampling",
+    "venue": conferenceVenues["WACV"],
+    "thumbimage": "focustune.png",
+    "thumblink": "https://arxiv.org/pdf/2311.02872",
+    "year": "2024",
+    "pages": "Waikoloa, Hawaii, January",
+    "links": [{"name": "Paper", "link": "https://openaccess.thecvf.com/content/WACV2024/html/Nguyen_FocusTune_Tuning_Visual_Localization_Through_Focus-Guided_Sampling_WACV_2024_paper.html"}, {"name": "Code", "link": "https://github.com/sontung/focus-tune"}],
+  },  
+  {
     "authors": ["L. Meyer", "M. Smíšek", "A. Fontan", "L. Oliva-Maza, D. Medina, M. J. Schuster, F. Steidle, M. Vayugundla, M. G. Müller, B. Rebele, A. Wedler, R. Triebel"],
     "title": "The MADMAX data set for visual‐inertial rover navigation on Mars",
     "venue": conferenceVenues["JFR"],
