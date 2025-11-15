@@ -11,6 +11,7 @@ const conferenceVenues = {
   "ICCV": "IEEE/CVF International Conference on Computer Vision (ICCV)",
   "ICCV-WS": "Workshop in IEEE/CVF International Conference on Computer Vision (ICCV)",
   "arXiv": "Preprint in arXiv ",
+  "BMVC": "The British Machine Vision Conference (BMVC) ",
 }
 
 const pubConferences = [

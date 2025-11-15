@@ -71,6 +71,16 @@ function addTableRow(publication, tbody) {
     }
   }
 
+  // Citations.
+  let citations = publication.citations;
+  if (citations != undefined && citations.length > 0) {
+    for (let i = 0; i < publication.citations.length; i++) {
+      text += "[<span style='color: #1a0dab; text-decoration: underline;'>Cited by " +
+              publication.citations[i] +
+              "</span>]&nbsp;";
+    }
+  }
+
   text += "</div></td>"
 
   // Add the data to the table.

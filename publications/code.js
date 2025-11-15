@@ -7,6 +7,12 @@ const pubCode = {
     "description": "An open-source, reproducible framework for benchmarking Visual SLAM baselines and datasets — all in one place.",
     "stars": "> 350 stars on GitHub"
   },
+  "bommietoolkit": {
+    "link": "https://github.com/BommieToolkit/BommieToolkit",
+    "short_url": "/BommieToolkit/BommieToolkit",
+    "image": "BommieToolkit-Git.png", "title": "BommieToolkit: End-to-End 3D Reconstruction Tools for Coral Reefs",
+    "description": "End-to-end toolkit for 3D reconstruction of coral reefs using a GoPro stereo rig, Kalibr for calibration, COLMAP for structure-from-motion, and Nerfstudio for Gaussian Splatting–based scene representation."
+  }, 
   "anyfeature": {
     "link": "https://github.com/alejandrofontan/AnyFeature-VSLAM",
     "short_url": "/alejandrofontan/AnyFeature-VSLAM",

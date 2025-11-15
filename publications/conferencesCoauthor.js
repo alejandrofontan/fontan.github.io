@@ -10,26 +10,6 @@ const pubConferencesCoauthor = [
     "links": [{"name": "Paper", "link": "https://arxiv.org/abs/2511.04827"}, {"name": "Documentation", "link": "https://pixi.sh/latest/"}, {"name": "Youtube", "link": "https://www.youtube.com/@prefix_dev"}],
   },
   {
-    "authors": ["A.D. Hines", "A. Fontan", "M. Milford", "T. Fischer"],
-    "title": "Event-LAB: Towards Standardized Evaluation of Neuromorphic Localization Methods",
-    "venue": conferenceVenues["arXiv"],
-    "thumbimage": "Event-LAB.png",
-    "thumblink": "https://github.com/EventLAB-Team/Event-LAB",
-    "year": "2025",
-    "pages": "Brisbane, Australia, September",
-    "links": [{"name": "Paper", "link": "https://arxiv.org/abs/2509.14516"}, {"name": "Code", "link": "https://github.com/EventLAB-Team/Event-LAB"}],
-  },
-  {
-    "authors": ["G.B. Nair,", "A. Fontan", "M. Milford", "T. Fischer"],
-    "title": "Event-Based Visual Teach-and-Repeat via Fast Fourier-Domain Cross-Correlation",
-    "venue": conferenceVenues["arXiv"],
-    "thumbimage": "event_teach.png",
-    "thumblink": "https://arxiv.org/abs/2509.17287",
-    "year": "2025",
-    "pages": "Brisbane, Australia, September",
-    "links": [{"name": "Paper", "link": "https://arxiv.org/abs/2509.17287"}],
-  },
-  {
     "authors": ["B. Gorry", "T. Fischer", "M. Milford", "A. Fontan"],
     "title": "UnderLoc: Image-Based Relocalization and Alignment for Long-Term Monitoring of Dynamic Underwater Environments",
     "venue": conferenceVenues["IROS"],
@@ -41,36 +21,6 @@ const pubConferencesCoauthor = [
     "awards": ["Finalist for the IEEE-RAS Outstanding #WiRA Student Paper Award"]
   },
   {
-    "authors": ["S.T. Nguyen", "A. Fontan", "M. Milford", "T. Fischer"],
-    "title": "FUSELOC: Fusing Global and Local Descriptors to Disambiguate 2D-3D Matching in Visual Localization",
-    "venue": conferenceVenues["ICCV-WS"],
-    "thumbimage": "fuseloc.png",
-    "thumblink": "https://arxiv.org/pdf/2311.02872",
-    "year": "2025",
-    "pages": "Waikoloa, Hawaii, October",
-    "links": [{"name": "Paper", "link": "https://openaccess.thecvf.com/content/ICCV2025W/CALIPOSE/papers/Nguyen_FUSELOC_Fusing_Global_and_Local_Descriptors_for_Fast_and_Robust_ICCVW_2025_paper.pdf"}, {"name": "Code", "link": "https://github.com/sontung/descriptor-disambiguation"}],
-  }, 
-  {
-    "authors": ["M. Windsor", "A. Fontan", "P. Pivonka", "M. Milford"],
-    "title": "Forward prediction of target localization failure through pose estimation artifact modelling",
-    "venue": conferenceVenues["RA-L"],
-    "thumbimage": "morgan.png",
-    "thumblink": "https://ieeexplore.ieee.org/abstract/document/10480534",
-    "year": "2025",
-    "pages": "Hangzhou, China, October",
-    "links": [{"name": "Paper", "link": "https://ieeexplore.ieee.org/abstract/document/10480534"}],
-  },
-  {
-    "authors": ["S.T. Nguyen", "A. Fontan", "M. Milford", "T. Fischer"],
-    "title": "FocusTune: Tuning Visual Localization through Focus-Guided Sampling",
-    "venue": conferenceVenues["WACV"],
-    "thumbimage": "focustune.png",
-    "thumblink": "https://arxiv.org/pdf/2311.02872",
-    "year": "2024",
-    "pages": "Waikoloa, Hawaii, January",
-    "links": [{"name": "Paper", "link": "https://openaccess.thecvf.com/content/WACV2024/html/Nguyen_FocusTune_Tuning_Visual_Localization_Through_Focus-Guided_Sampling_WACV_2024_paper.html"}, {"name": "Code", "link": "https://github.com/sontung/focus-tune"}],
-  },  
-  {
     "authors": ["L. Meyer", "M. Smíšek", "A. Fontan", "L. Oliva-Maza, D. Medina, M. J. Schuster, F. Steidle, M. Vayugundla, M. G. Müller, B. Rebele, A. Wedler, R. Triebel"],
     "title": "The MADMAX data set for visual‐inertial rover navigation on Mars",
     "venue": conferenceVenues["JFR"],
@@ -79,6 +29,7 @@ const pubConferencesCoauthor = [
     "year": "2021",
     "pages": "Wiley Online Library",
     "links": [{"name": "Paper", "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rob.22016"}, {"name": "Dataset", "link": "https://datasets.arches-projekt.de/morocco2018/"}],
+    "citations": ["> 65 citations on scholar"]
   },
   {
     "authors": ["I. Ballester", "A. Fontan", "J. Civera", "KH. Strobl", "R. Triebel"],
@@ -89,6 +40,7 @@ const pubConferencesCoauthor = [
     "year": "2021",
     "pages": "Xi'an, China, June",
     "links": [{"name": "Paper", "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561452"}, {"name": "YouTube", "link": "https://youtu.be/9hWChyQGKJk"}, { "name": "ICRA21", "link": "https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/icra2021/icra2021/web.archive.org/web/20210531183741/https_/www.ieee-icra.org/index.html" }],
+    "citations": ["> 110 citations on scholar"]
   },
   // {
   //   "authors": ["S. Looper", "J. Rodriguez-Puigvert", "R. Siegwart", "C. Cadena", "L. Schmid"],

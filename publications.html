@@ -38,15 +38,19 @@
       <header class="major">
         <h1>Publications</h1>
       </header>
-      <p>Contributions to peer-reviewed journals, peer-reviewed conference proceedings, recent preprints, and
+      <!--<p>Contributions to peer-reviewed journals, peer-reviewed conference proceedings, recent preprints, and
         other
-        publications. <br>*Indicates I am a second listed shared first author.</p>
+        publications. <br>*Indicates I am a second listed shared first author.</p>-->
 
       <ul class="actions fit">
         <!-- <li><a href="#journals" class="button fit" target="_self">Journals</a></li> -->
-        <li><a href="#conferences" class="button fit" target="_self">Publications (as 1st author)</a></li>
+        <li><a href="#conferences" class="button fit" target="_self">Main Publications (as 1st author)</a></li>
         <li><a href="#workshops" class="button fit" target="_self">Workshops (as 1st organizer)</a></li>
-        <li><a href="#conferencesCoauthor" class="button fit" target="_self">Publications (as co-author)</a></li>
+        <li><a href="#conferencesCoauthor" class="button fit" target="_self"> Main Publications (as co-author)</a></li>
+      </ul>
+      <ul class="actions fit">
+        <!-- <li><a href="#journals" class="button fit" target="_self">Journals</a></li> -->        
+        <li><a href="#conferencesOther" class="button fit" target="_self"> More Publications </a></li>
         <!-- <li><a href="#preprints" class="button fit" target="_self">Preprints</a></li> -->
         <!-- <li><a href="#theses" class="button fit" target="_self">Theses</a></li> -->
       </ul>
@@ -77,8 +81,16 @@
     </section>
 
     <section id="conferencesCoauthor">
-      <h1>Publications (as co-author)</h1>
+      <h1>Main Publications (as co-author)</h1>
       <table id="tableConferencesCoauthor">
+        <tbody>
+        </tbody>
+      </table>
+    </section>
+
+    <section id="conferencesOther">
+      <h1>More Publications</h1>
+      <table id="tableConferencesOther">
         <tbody>
         </tbody>
       </table>
@@ -117,6 +129,7 @@
   <script src="publications/conferences.js"></script>
   <script src="publications/workshops.js"></script>
   <script src="publications/conferencesCoauthor.js"></script>
+  <script src="publications/conferencesOther.js"></script>
   <!--<script src="publications/preprints.js"></script> -->
   <!--<script src="publications/other.js"></script> -->
   <script src="assets/js/build-publication.js"></script>
@@ -124,6 +137,7 @@
     buildTable(pubConferences, "tableConferences");
     buildTable(pubWorkshops, "tableWorkshops");
     buildTable(pubConferencesCoauthor, "tableConferencesCoauthor");
+    buildTable(pubConferencesOther, "tableConferencesOther");
   </script>
   <script src="assets/js/build-header-footer.js"></script>
   <script src="assets/js/main.js"></script>
