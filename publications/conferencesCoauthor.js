@@ -1,5 +1,35 @@
 const pubConferencesCoauthor = [
-   {
+    {
+    "authors": ["T. Fischer", "W. Vollprecht", "B. Zalmstra", "R. Arts", "T. de Jager", "A. Fontan", "A.D. Hines", "M. Milford", "S. Traversaro", "D. Claes", "S. Raine"],
+    "title": "Pixi: Unified Software Development and Distribution for Robotics and AI",
+    "venue": conferenceVenues["arXiv"],
+    "thumbimage": "pixi.jpg",
+    "thumblink": "https://youtu.be/TA2tILrgcG4",
+    "year": "2025",
+    "pages": "Brisbane, Australia, September",
+    "links": [{"name": "Paper", "link": "https://arxiv.org/abs/2511.04827"}, {"name": "Documentation", "link": "https://pixi.sh/latest/"}, {"name": "Youtube", "link": "https://www.youtube.com/@prefix_dev"}],
+  },
+  {
+    "authors": ["A.D. Hines", "A. Fontan", "M. Milford", "T. Fischer"],
+    "title": "Event-LAB: Towards Standardized Evaluation of Neuromorphic Localization Methods",
+    "venue": conferenceVenues["arXiv"],
+    "thumbimage": "Event-LAB.png",
+    "thumblink": "https://github.com/EventLAB-Team/Event-LAB",
+    "year": "2025",
+    "pages": "Brisbane, Australia, September",
+    "links": [{"name": "Paper", "link": "https://arxiv.org/abs/2509.14516"}, {"name": "Code", "link": "https://github.com/EventLAB-Team/Event-LAB"}],
+  },
+  {
+    "authors": ["G.B. Nair,", "A. Fontan", "M. Milford", "T. Fischer"],
+    "title": "Event-Based Visual Teach-and-Repeat via Fast Fourier-Domain Cross-Correlation",
+    "venue": conferenceVenues["arXiv"],
+    "thumbimage": "event_teach.png",
+    "thumblink": "https://arxiv.org/abs/2509.17287",
+    "year": "2025",
+    "pages": "Brisbane, Australia, September",
+    "links": [{"name": "Paper", "link": "https://arxiv.org/abs/2509.17287"}],
+  },
+  {
     "authors": ["B. Gorry", "T. Fischer", "M. Milford", "A. Fontan"],
     "title": "UnderLoc: Image-Based Relocalization and Alignment for Long-Term Monitoring of Dynamic Underwater Environments",
     "venue": conferenceVenues["IROS"],

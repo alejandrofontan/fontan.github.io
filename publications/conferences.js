@@ -10,6 +10,7 @@ const conferenceVenues = {
   "RA-L": "IEEE Robotics and Automation Letters (RA-L)",
   "ICCV": "IEEE/CVF International Conference on Computer Vision (ICCV)",
   "ICCV-WS": "Workshop in IEEE/CVF International Conference on Computer Vision (ICCV)",
+  "arXiv": "Preprint in arXiv ",
 }
 
 const pubConferences = [
