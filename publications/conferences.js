@@ -24,7 +24,7 @@ const pubConferences = [
     "year": "2025",
     "pages": "Hangzhou, China, October",
     "links": [{"name": "Paper", "link": "https://arxiv.org/pdf/2504.04457?"}, {"name": "Code", "link": "https://github.com/VSLAM-LAB/VSLAM-LAB"}, {"name": "YouTube Channel", "link": "https://www.youtube.com/@VSLAM-LAB"}, { "name": "IROS25", "link": "https://youtu.be/BCVkhITwjO0" }],
-    "stars": ["> 350 stars on GitHub"]
+    "stars": ["> 390 stars on GitHub"]
   },
   {
     "authors": ["A. Fontan", "J. Civera", "M. Milford"],
